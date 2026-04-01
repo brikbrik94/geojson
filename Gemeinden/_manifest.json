@@ -1,0 +1,131 @@
+{
+  "title": "Gemeinden",
+  "files": [
+    {
+      "name": "Gemeinden-Braunau",
+      "file": "Gemeinden-Braunau.geojson",
+      "size": 1107986,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "6b429679ab5d"
+    },
+    {
+      "name": "Gemeinden-Eferding",
+      "file": "Gemeinden-Eferding.geojson",
+      "size": 288748,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "7b14231cbced"
+    },
+    {
+      "name": "Gemeinden-Freistadt",
+      "file": "Gemeinden-Freistadt.geojson",
+      "size": 1244518,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "3836467328ee"
+    },
+    {
+      "name": "Gemeinden-Gmunden",
+      "file": "Gemeinden-Gmunden.geojson",
+      "size": 453868,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "18d5094b6363"
+    },
+    {
+      "name": "Gemeinden-Grieskirchen",
+      "file": "Gemeinden-Grieskirchen.geojson",
+      "size": 764393,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "1b079fd1fdd2"
+    },
+    {
+      "name": "Gemeinden-Kirchdorf",
+      "file": "Gemeinden-Kirchdorf.geojson",
+      "size": 595504,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "8937e0117c2b"
+    },
+    {
+      "name": "Gemeinden-Linz-Land",
+      "file": "Gemeinden-Linz-Land.geojson",
+      "size": 481181,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "3103e8bd87b4"
+    },
+    {
+      "name": "Gemeinden-Linz",
+      "file": "Gemeinden-Linz.geojson",
+      "size": 90022,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "f78d2bb464c5"
+    },
+    {
+      "name": "Gemeinden-Perg",
+      "file": "Gemeinden-Perg.geojson",
+      "size": 798036,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "bbe684d61058"
+    },
+    {
+      "name": "Gemeinden-Ried",
+      "file": "Gemeinden-Ried.geojson",
+      "size": 930376,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "38c8567fdf51"
+    },
+    {
+      "name": "Gemeinden-Rohrbach",
+      "file": "Gemeinden-Rohrbach.geojson",
+      "size": 1395845,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "77a9b474c830"
+    },
+    {
+      "name": "Gemeinden-Schärding",
+      "file": "Gemeinden-Schärding.geojson",
+      "size": 981256,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "ba1f1178e21e"
+    },
+    {
+      "name": "Gemeinden-Steyr-Land",
+      "file": "Gemeinden-Steyr-Land.geojson",
+      "size": 575707,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "1ed1d2f2b13f"
+    },
+    {
+      "name": "Gemeinden-Steyr",
+      "file": "Gemeinden-Steyr.geojson",
+      "size": 22583,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "ee22eeba2c63"
+    },
+    {
+      "name": "Gemeinden-Urfahr-Umgebung",
+      "file": "Gemeinden-Urfahr-Umgebung.geojson",
+      "size": 901932,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "52f668b90b08"
+    },
+    {
+      "name": "Gemeinden-Vöcklabruck",
+      "file": "Gemeinden-Vöcklabruck.geojson",
+      "size": 1229642,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "6d51f8c03846"
+    },
+    {
+      "name": "Gemeinden-Wels-Land",
+      "file": "Gemeinden-Wels-Land.geojson",
+      "size": 509537,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "7d2d1a41442b"
+    },
+    {
+      "name": "Gemeinden-Wels",
+      "file": "Gemeinden-Wels.geojson",
+      "size": 23267,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "0ee7a4900c00"
+    }
+  ]
+}

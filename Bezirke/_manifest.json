@@ -1,0 +1,12 @@
+{
+  "title": "Bezirke",
+  "files": [
+    {
+      "name": "Bezirke",
+      "file": "Bezirke.geojson",
+      "size": 2730046,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "b90b4b12e4d9"
+    }
+  ]
+}

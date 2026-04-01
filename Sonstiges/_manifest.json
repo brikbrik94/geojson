@@ -1,0 +1,292 @@
+{
+  "title": "Sonstiges",
+  "files": [
+    {
+      "name": "Linie-1",
+      "file": "Linie-1.geojson",
+      "size": 44912,
+      "mtime": "2025-12-12T08:47:32.000Z",
+      "sha256_12": "1b53ca16048e"
+    },
+    {
+      "name": "Linie-101",
+      "file": "Linie-101.geojson",
+      "size": 16041,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "1a672451e9d4"
+    },
+    {
+      "name": "Linie-102",
+      "file": "Linie-102.geojson",
+      "size": 16886,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "9402a0fa5a62"
+    },
+    {
+      "name": "Linie-103",
+      "file": "Linie-103.geojson",
+      "size": 6397,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "011739b424c2"
+    },
+    {
+      "name": "Linie-104",
+      "file": "Linie-104.geojson",
+      "size": 17977,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "7a68a7843c5d"
+    },
+    {
+      "name": "Linie-105",
+      "file": "Linie-105.geojson",
+      "size": 22246,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "2f0f14a88e53"
+    },
+    {
+      "name": "Linie-106",
+      "file": "Linie-106.geojson",
+      "size": 9226,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "17ab59b915f4"
+    },
+    {
+      "name": "Linie-107",
+      "file": "Linie-107.geojson",
+      "size": 20068,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "9f756b116385"
+    },
+    {
+      "name": "Linie-108",
+      "file": "Linie-108.geojson",
+      "size": 12628,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "34c5e5c78950"
+    },
+    {
+      "name": "Linie-11",
+      "file": "Linie-11.geojson",
+      "size": 74654,
+      "mtime": "2025-12-12T08:47:32.000Z",
+      "sha256_12": "4d4a0d04e560"
+    },
+    {
+      "name": "Linie-12",
+      "file": "Linie-12.geojson",
+      "size": 50932,
+      "mtime": "2025-12-12T08:47:32.000Z",
+      "sha256_12": "5bfc8ca3264b"
+    },
+    {
+      "name": "Linie-150",
+      "file": "Linie-150.geojson",
+      "size": 16059,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "5f46aa208449"
+    },
+    {
+      "name": "Linie-17",
+      "file": "Linie-17.geojson",
+      "size": 46883,
+      "mtime": "2025-12-12T08:47:32.000Z",
+      "sha256_12": "9abc57758c02"
+    },
+    {
+      "name": "Linie-18",
+      "file": "Linie-18.geojson",
+      "size": 18100,
+      "mtime": "2025-12-12T08:47:32.000Z",
+      "sha256_12": "d9691aa3518d"
+    },
+    {
+      "name": "Linie-19",
+      "file": "Linie-19.geojson",
+      "size": 110631,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "bb449daa118f"
+    },
+    {
+      "name": "Linie-191",
+      "file": "Linie-191.geojson",
+      "size": 47691,
+      "mtime": "2025-12-12T08:47:35.000Z",
+      "sha256_12": "a668af3005c6"
+    },
+    {
+      "name": "Linie-192",
+      "file": "Linie-192.geojson",
+      "size": 34876,
+      "mtime": "2025-12-12T08:47:35.000Z",
+      "sha256_12": "c22127b14507"
+    },
+    {
+      "name": "Linie-194",
+      "file": "Linie-194.geojson",
+      "size": 26696,
+      "mtime": "2025-12-12T08:47:35.000Z",
+      "sha256_12": "e59b37766fa4"
+    },
+    {
+      "name": "Linie-2",
+      "file": "Linie-2.geojson",
+      "size": 70340,
+      "mtime": "2025-12-12T08:47:32.000Z",
+      "sha256_12": "6182ef427a45"
+    },
+    {
+      "name": "Linie-25",
+      "file": "Linie-25.geojson",
+      "size": 50368,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "eee8dfbc6b48"
+    },
+    {
+      "name": "Linie-26",
+      "file": "Linie-26.geojson",
+      "size": 35854,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "986684ba9388"
+    },
+    {
+      "name": "Linie-27",
+      "file": "Linie-27.geojson",
+      "size": 62114,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "d07e7109665a"
+    },
+    {
+      "name": "Linie-3",
+      "file": "Linie-3.geojson",
+      "size": 36359,
+      "mtime": "2025-12-12T08:47:32.000Z",
+      "sha256_12": "fe644070b535"
+    },
+    {
+      "name": "Linie-33",
+      "file": "Linie-33.geojson",
+      "size": 29793,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "86a15b95f070"
+    },
+    {
+      "name": "Linie-33a",
+      "file": "Linie-33a.geojson",
+      "size": 27392,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "51534472d70c"
+    },
+    {
+      "name": "Linie-38",
+      "file": "Linie-38.geojson",
+      "size": 12908,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "b3d5df50eac9"
+    },
+    {
+      "name": "Linie-4",
+      "file": "Linie-4.geojson",
+      "size": 45341,
+      "mtime": "2025-12-12T08:47:32.000Z",
+      "sha256_12": "b7cf4d8150f8"
+    },
+    {
+      "name": "Linie-41",
+      "file": "Linie-41.geojson",
+      "size": 35912,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "9a2d2f461cf4"
+    },
+    {
+      "name": "Linie-43",
+      "file": "Linie-43.geojson",
+      "size": 34457,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "5dcf66cb4c46"
+    },
+    {
+      "name": "Linie-45",
+      "file": "Linie-45.geojson",
+      "size": 17331,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "10e0cc0e5e8e"
+    },
+    {
+      "name": "Linie-45a",
+      "file": "Linie-45a.geojson",
+      "size": 26092,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "42a68fd68ceb"
+    },
+    {
+      "name": "Linie-46",
+      "file": "Linie-46.geojson",
+      "size": 23559,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "5ee1b0ff45de"
+    },
+    {
+      "name": "Linie-50",
+      "file": "Linie-50.geojson",
+      "size": 13482,
+      "mtime": "2025-12-12T08:47:33.000Z",
+      "sha256_12": "e0723202a205"
+    },
+    {
+      "name": "Linie-70",
+      "file": "Linie-70.geojson",
+      "size": 64188,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "8bfe9af1b442"
+    },
+    {
+      "name": "Linie-71",
+      "file": "Linie-71.geojson",
+      "size": 70400,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "cf6477c49dda"
+    },
+    {
+      "name": "Linie-72",
+      "file": "Linie-72.geojson",
+      "size": 62897,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "f66fdb64a11f"
+    },
+    {
+      "name": "Linie-73",
+      "file": "Linie-73.geojson",
+      "size": 68748,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "91cc48323812"
+    },
+    {
+      "name": "Linie-77",
+      "file": "Linie-77.geojson",
+      "size": 29126,
+      "mtime": "2025-12-12T08:47:34.000Z",
+      "sha256_12": "07ff9725e8c7"
+    },
+    {
+      "name": "Linie-N82",
+      "file": "Linie-N82.geojson",
+      "size": 70340,
+      "mtime": "2025-12-12T08:47:35.000Z",
+      "sha256_12": "6182ef427a45"
+    },
+    {
+      "name": "Linie-N83",
+      "file": "Linie-N83.geojson",
+      "size": 44670,
+      "mtime": "2025-12-12T08:47:35.000Z",
+      "sha256_12": "8a898f80fc39"
+    },
+    {
+      "name": "Linie-N84",
+      "file": "Linie-N84.geojson",
+      "size": 33573,
+      "mtime": "2025-12-12T08:47:35.000Z",
+      "sha256_12": "8f2d6edf27cf"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Autobahnen",
+  "files": [
+    {
+      "name": "A1",
+      "file": "A1.geojson",
+      "size": 73087,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "175f1fa8b634"
+    },
+    {
+      "name": "A25",
+      "file": "A25.geojson",
+      "size": 15027,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "29a922a4e2f1"
+    },
+    {
+      "name": "A7",
+      "file": "A7.geojson",
+      "size": 35239,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "647238d9a9b9"
+    },
+    {
+      "name": "A8",
+      "file": "A8.geojson",
+      "size": 63987,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "3b973d610103"
+    },
+    {
+      "name": "A9",
+      "file": "A9.geojson",
+      "size": 51563,
+      "mtime": "2025-10-29T05:58:24.000Z",
+      "sha256_12": "d7b1cf0a8f66"
+    }
+  ]
+}
