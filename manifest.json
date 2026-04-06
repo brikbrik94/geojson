@@ -1,0 +1,1082 @@
+{
+  "generated_at": "2026-04-06T10:20:41.561026Z",
+  "files": [
+    {
+      "name": "Anfahrtszeit/Linz/15-0.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Anfahrtszeit/Linz/30-15.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Anfahrtszeit/Linz/45-30.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Anfahrtszeit/Linz/60-45.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Anfahrtszeit/Linz/75-60.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Anfahrtszeit/Linz/90-75.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Bezirke/Bezirke.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 18
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Braunau.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 46
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Eferding.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 12
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Freistadt.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 27
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Gmunden.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 20
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Grieskirchen.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 33
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Kirchdorf.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 23
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Linz-Land.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 22
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Linz.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Perg.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 26
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Ried.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 36
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Rohrbach.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 37
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Schärding.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 30
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Steyr-Land.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 20
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Steyr.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Urfahr-Umgebung.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 27
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Vöcklabruck.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 52
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Wels-Land.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 24
+    },
+    {
+      "name": "Gemeinden/Gemeinden-Wels.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Leitstellen-Bereiche/HRV.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 4
+    },
+    {
+      "name": "Leitstellen-Bereiche/INN.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 3
+    },
+    {
+      "name": "Leitstellen-Bereiche/RLZ.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 6
+    },
+    {
+      "name": "Leitstellen-Bereiche/SKG.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Leitstellen-Bereiche/SrKi.geojson",
+      "feature_types": [
+        "Polygon"
+      ],
+      "feature_count": 3
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Bayern.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 14
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Sommer.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 43
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Winter.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 54
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Zonen-Sommer.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 32
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Zonen-Winter.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 43
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Zonen-Zwischensaison.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 29
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Zwischensaison.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 40
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Österreich.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 40
+    },
+    {
+      "name": "RD-Dienststellen/BRD-OOE.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 23
+    },
+    {
+      "name": "RD-Dienststellen/RD-BY.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 47
+    },
+    {
+      "name": "RD-Dienststellen/RD-NÖ.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 32
+    },
+    {
+      "name": "RD-Dienststellen/RD-OO-NEF.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 18
+    },
+    {
+      "name": "RD-Dienststellen/RD-OO-SEW.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 94
+    },
+    {
+      "name": "RD-Dienststellen/RD-SBG.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 19
+    },
+    {
+      "name": "RD-Dienststellen/RD-STMK.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 12
+    },
+    {
+      "name": "Sonstiges/Linie-1.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-101.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-102.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-103.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-104.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-105.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-106.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-107.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-108.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-11.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-12.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-150.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-17.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-18.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-19.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-191.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-192.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-194.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-2.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-25.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-26.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-27.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-3.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-33.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-33a.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-38.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-4.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-41.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-43.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-45.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-45a.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-46.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-50.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-70.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-71.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-72.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-73.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-77.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-N82.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-N83.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Sonstiges/Linie-N84.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Autobahnen/A1.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Autobahnen/A25.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Autobahnen/A7.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Autobahnen/A8.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Autobahnen/A9.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B1.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B119.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B119a.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B120.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B121.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B122.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B123.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B124.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B125.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B126.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B127.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B129.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B130.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B131.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B132.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B133.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B134.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B135.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B136.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B137.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B138.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B139.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B140.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B141.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B142.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B143.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B144.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B145.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B147.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B148.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B149.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B151.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B152.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B153.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B154.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B156.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B158.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B3.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B309.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B310.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Straßen/Bundesstraßen/B38.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 1
+    },
+    {
+      "name": "Zonen/NEF-AM.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 8
+    },
+    {
+      "name": "Zonen/NEF-HRV.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 11
+    },
+    {
+      "name": "Zonen/NEF-INN.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 8
+    },
+    {
+      "name": "Zonen/NEF-RLZ.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 15
+    },
+    {
+      "name": "Zonen/NEF-SKG.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 10
+    },
+    {
+      "name": "Zonen/NEF-SrKi.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 7
+    },
+    {
+      "name": "Zonen/SEW-HRV.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 26
+    },
+    {
+      "name": "Zonen/SEW-INN.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 32
+    },
+    {
+      "name": "Zonen/SEW-NÖ.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 61
+    },
+    {
+      "name": "Zonen/SEW-RLZ.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 63
+    },
+    {
+      "name": "Zonen/SEW-SBG.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 25
+    },
+    {
+      "name": "Zonen/SEW-SKG.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 27
+    },
+    {
+      "name": "Zonen/SEW-STMK.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 23
+    },
+    {
+      "name": "Zonen/SEW-SrKi.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 23
+    },
+    {
+      "name": "Zonen/X/HRV.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 11
+    },
+    {
+      "name": "Zonen/X/INN.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 25
+    },
+    {
+      "name": "Zonen/X/NEF-OOE.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 28
+    },
+    {
+      "name": "Zonen/X/RLZ.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 50
+    },
+    {
+      "name": "Zonen/X/SKG.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 20
+    },
+    {
+      "name": "Zonen/X/SRKI.geojson",
+      "feature_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "feature_count": 16
+    }
+  ]
+}
