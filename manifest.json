@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T10:20:41.561026Z",
+  "generated_at": "2026-04-06T13:55:13.096449Z",
   "files": [
     {
       "name": "Anfahrtszeit/Linz/15-0.geojson",
@@ -219,20 +219,6 @@
       "feature_count": 14
     },
     {
-      "name": "NAH-Stützpunkte/NAH-Sommer.geojson",
-      "feature_types": [
-        "Point"
-      ],
-      "feature_count": 43
-    },
-    {
-      "name": "NAH-Stützpunkte/NAH-Winter.geojson",
-      "feature_types": [
-        "Point"
-      ],
-      "feature_count": 54
-    },
-    {
       "name": "NAH-Stützpunkte/NAH-Zonen-Sommer.geojson",
       "feature_types": [
         "MultiPolygon"
@@ -254,18 +240,25 @@
       "feature_count": 29
     },
     {
-      "name": "NAH-Stützpunkte/NAH-Zwischensaison.geojson",
+      "name": "NAH-Stützpunkte/NAH-Österreich-Sommer.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 29
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Österreich-Winter.geojson",
       "feature_types": [
         "Point"
       ],
       "feature_count": 40
     },
     {
-      "name": "NAH-Stützpunkte/NAH-Österreich.geojson",
+      "name": "NAH-Stützpunkte/NAH-Österreich-Zwischensaison.geojson",
       "feature_types": [
         "Point"
       ],
-      "feature_count": 40
+      "feature_count": 26
     },
     {
       "name": "RD-Dienststellen/BRD-OOE.geojson",
