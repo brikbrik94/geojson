@@ -205390,7 +205390,7 @@
       "properties": {
         "id": "relation/86708",
         "@id": "relation/86708",
-        "admin_level": null,
+        "admin_level": 6,
         "boundary": "administrative",
         "loc_name": null,
         "name": "Linz",
@@ -205403,7 +205403,7 @@
         "note": null,
         "postal_code": null,
         "postal_code_level": null,
-        "ref": null,
+        "ref": "L",
         "ref:at:gkz": null,
         "source": null,
         "type": null,
