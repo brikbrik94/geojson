@@ -6,19 +6,28 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A GeoJSON data repository for emergency medical services (Rettungsdienst) in Upper Austria (Oberösterreich) and neighboring regions (Bavaria, Lower Austria, Salzburg, Styria). Contains geographic boundaries, station locations, coverage zones, and road network data used for dispatch planning and visualization.
 
-## Manifest generation
+## Build and manifest generation
 
-After adding, removing, or modifying `.geojson` files, regenerate the manifest:
+To regenerate all configuration files (manifest and overlay config), run:
 
 ```bash
-python scripts/generate_geojson_manifest.py
+make all
 ```
 
-Optional flags:
-- `--output <path>` — write manifest to a custom path instead of `./manifest.json`
-- `--include-sensitive` — also scan `.git`, `node_modules`, `venv`
+Or run individual steps:
 
-The script resolves the repo root from its own location (`__file__`), so it works from any working directory.
+```bash
+make manifest   # Runs scripts/generate_geojson_manifest.py
+make overlay    # Runs scripts/generate_overlay_config.py
+```
+
+### Overlay configuration
+
+The `overlay_config.json` is used by the OE5ITH Overlay-Pipeline to apply styling and presets. Its generation is controlled by:
+- `scripts/overlay_mapping.json`: Defines the mapping between folders and templates.
+- `scripts/generate_overlay_config.py`: Scans the repo and builds the config based on the mapping.
+
+Add new folders to `scripts/overlay_mapping.json` if they don't match existing prefix rules (like `Zonen-`).
 
 ## Data organization
 

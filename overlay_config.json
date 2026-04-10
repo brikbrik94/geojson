@@ -1,0 +1,75 @@
+{
+  "version": "1.0",
+  "datasets": [
+    {
+      "template": "anfahrtszeit",
+      "name": "Anfahrtszeit Linz",
+      "path": "Anfahrtszeit/Linz"
+    },
+    {
+      "template": "strassen",
+      "name": "Autobahnen",
+      "options": {
+        "line_color": "#0000FF",
+        "bubble_icon": "label-bubble-blue",
+        "text_color": "#FFFFFF"
+      },
+      "path": "Autobahnen"
+    },
+    {
+      "template": "rd",
+      "name": "Bergrettungsdienst OÖ",
+      "path": "BRD-OÖ-Diensstellen"
+    },
+    {
+      "template": "gebiete",
+      "name": "Bezirksgrenzen",
+      "path": "Bezirke"
+    },
+    {
+      "template": "strassen",
+      "name": "Bundesstraßen",
+      "options": {
+        "line_color": "#FFCC00",
+        "bubble_icon": "label-bubble-yellow",
+        "text_color": "#000000"
+      },
+      "path": "Bundesstraßen"
+    },
+    {
+      "template": "gebiete",
+      "name": "Gemeindegrenzen",
+      "path": "Gemeinden"
+    },
+    {
+      "template": "leitstellen",
+      "name": "Leitstellen-Bereiche",
+      "path": "Leitstellen-Bereiche"
+    },
+    {
+      "template": "nah",
+      "name": "Notarzthubschrauber",
+      "path": "NAH-Stützpunkte"
+    },
+    {
+      "template": "rd",
+      "name": "Rettungsdienst-Dienststellen",
+      "path": "RD-Dienststellen"
+    },
+    {
+      "template": "sonstiges",
+      "name": "Liniennetzpläne",
+      "path": "Sonstiges"
+    },
+    {
+      "template": "zonen",
+      "path": "Zonen-NEF",
+      "name": "Zonen-NEF"
+    },
+    {
+      "template": "zonen",
+      "path": "Zonen-SEW",
+      "name": "Zonen-SEW"
+    }
+  ]
+}

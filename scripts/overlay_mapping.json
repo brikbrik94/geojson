@@ -1,0 +1,59 @@
+{
+  "exact_matches": {
+    "RD-Dienststellen": {
+      "template": "rd",
+      "name": "Rettungsdienst-Dienststellen"
+    },
+    "BRD-OÖ-Diensstellen": {
+      "template": "rd",
+      "name": "Bergrettungsdienst OÖ"
+    },
+    "NAH-Stützpunkte": {
+      "template": "nah",
+      "name": "Notarzthubschrauber"
+    },
+    "Bezirke": {
+      "template": "gebiete",
+      "name": "Bezirksgrenzen"
+    },
+    "Gemeinden": {
+      "template": "gebiete",
+      "name": "Gemeindegrenzen"
+    },
+    "Autobahnen": {
+      "template": "strassen",
+      "name": "Autobahnen",
+      "options": {
+        "line_color": "#0000FF",
+        "bubble_icon": "label-bubble-blue",
+        "text_color": "#FFFFFF"
+      }
+    },
+    "Bundesstraßen": {
+      "template": "strassen",
+      "name": "Bundesstraßen",
+      "options": {
+        "line_color": "#FFCC00",
+        "bubble_icon": "label-bubble-yellow",
+        "text_color": "#000000"
+      }
+    },
+    "Leitstellen-Bereiche": {
+      "template": "leitstellen",
+      "name": "Leitstellen-Bereiche"
+    },
+    "Anfahrtszeit/Linz": {
+      "template": "anfahrtszeit",
+      "name": "Anfahrtszeit Linz"
+    },
+    "Sonstiges": {
+      "template": "sonstiges",
+      "name": "Liniennetzpläne"
+    }
+  },
+  "prefix_matches": {
+    "Zonen-": {
+      "template": "zonen"
+    }
+  }
+}
