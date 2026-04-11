@@ -39,7 +39,7 @@ Add new folders to `scripts/overlay_mapping.json` if they don't match existing p
 | `Leitstellen-Bereiche/` | Polygon | Dispatch center coverage areas (HRV, INN, RLZ, SKG, SrKi) |
 | `NAH-Stützpunkte/` | Point / MultiPolygon | Emergency helicopter (NAH) bases and seasonal zones (Sommer/Winter/Zwischensaison) for Austria and Bavaria |
 | `RD-Dienststellen/` | Point | Rescue service stations by state and vehicle type (SEW = ambulance, NEF = emergency physician vehicle) |
-| `Sonstiges/` | MultiLineString | Linz public transit lines |
+| `Linz-AG-Linien/` | MultiLineString | Linz public transit lines |
 | `Straßen/` | MultiLineString | Motorways (`Autobahnen/`) and federal roads (`Bundesstraßen/`) |
 | `Zonen/` | MultiPolygon / Polygon | Coverage zones per dispatch center for NEF and SEW vehicles; `Zonen/X/` holds combined/experimental zones |
 | `Zonen/farbzuordnung.json` | — | Maps station names/IDs to a color index (1–5) for map rendering |

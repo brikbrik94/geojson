@@ -46,9 +46,9 @@
       "template": "anfahrtszeit",
       "name": "Anfahrtszeit Linz"
     },
-    "Sonstiges": {
-      "template": "sonstiges",
-      "name": "Liniennetzpläne"
+    "Linz-AG-Linien": {
+      "template": "linz-ag-linien",
+      "name": "Linz-AG-Linien"
     }
   },
   "prefix_matches": {

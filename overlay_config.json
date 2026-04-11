@@ -57,9 +57,9 @@
       "path": "RD-Dienststellen"
     },
     {
-      "template": "sonstiges",
-      "name": "Liniennetzpläne",
-      "path": "Sonstiges"
+      "template": "linz-ag-linien",
+      "name": "Linz-AG-Linien",
+      "path": "Linz-AG-Linien"
     },
     {
       "template": "zonen",
