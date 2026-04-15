@@ -1,0 +1,5704 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/3988097",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "level": "-1",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "no",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3848506,
+            48.1617828
+          ],
+          [
+            16.3849893,
+            48.1619355
+          ],
+          [
+            16.385139,
+            48.16212
+          ],
+          [
+            16.3852596,
+            48.1622911
+          ],
+          [
+            16.3853696,
+            48.1624693
+          ],
+          [
+            16.3854893,
+            48.1627015
+          ],
+          [
+            16.3855838,
+            48.1629434
+          ],
+          [
+            16.3856565,
+            48.1631668
+          ],
+          [
+            16.3858758,
+            48.1639419
+          ],
+          [
+            16.3859486,
+            48.164149
+          ],
+          [
+            16.3860284,
+            48.1643501
+          ],
+          [
+            16.3861103,
+            48.1645237
+          ],
+          [
+            16.3862257,
+            48.1647232
+          ],
+          [
+            16.3863672,
+            48.1649336
+          ],
+          [
+            16.3865228,
+            48.1651381
+          ],
+          [
+            16.3867029,
+            48.1653372
+          ],
+          [
+            16.3867969,
+            48.1654303
+          ]
+        ]
+      },
+      "id": "way/3988097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/3988101",
+        "destination": "Praha;Inzersdorf",
+        "highway": "motorway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "maxspeed:hgv": "60",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3297091,
+            48.1559579
+          ],
+          [
+            16.3302403,
+            48.1557262
+          ],
+          [
+            16.3307014,
+            48.1555085
+          ],
+          [
+            16.3311742,
+            48.1552404
+          ],
+          [
+            16.3316627,
+            48.1548967
+          ],
+          [
+            16.332361,
+            48.1543435
+          ],
+          [
+            16.3328651,
+            48.1540035
+          ],
+          [
+            16.3333877,
+            48.153726
+          ],
+          [
+            16.3339157,
+            48.1535145
+          ],
+          [
+            16.3344987,
+            48.1533336
+          ],
+          [
+            16.3351526,
+            48.1531955
+          ],
+          [
+            16.3358951,
+            48.1531024
+          ],
+          [
+            16.3364609,
+            48.1530503
+          ],
+          [
+            16.3370531,
+            48.1529957
+          ],
+          [
+            16.3376588,
+            48.1529059
+          ]
+        ]
+      },
+      "id": "way/3988101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/3988103",
+        "highway": "motorway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3191513,
+            48.1579062
+          ],
+          [
+            16.3192317,
+            48.1578721
+          ],
+          [
+            16.3193489,
+            48.1578275
+          ],
+          [
+            16.3194462,
+            48.1577928
+          ],
+          [
+            16.3195689,
+            48.1577562
+          ],
+          [
+            16.3196725,
+            48.1577278
+          ],
+          [
+            16.3197943,
+            48.1576977
+          ],
+          [
+            16.3199403,
+            48.1576688
+          ],
+          [
+            16.3200496,
+            48.1576516
+          ],
+          [
+            16.3201531,
+            48.1576383
+          ],
+          [
+            16.3203149,
+            48.1576204
+          ],
+          [
+            16.3205049,
+            48.1576056
+          ],
+          [
+            16.3207565,
+            48.1575956
+          ],
+          [
+            16.3215396,
+            48.1575678
+          ],
+          [
+            16.3217777,
+            48.157554
+          ],
+          [
+            16.3220259,
+            48.157539
+          ],
+          [
+            16.322196,
+            48.1575273
+          ],
+          [
+            16.3228052,
+            48.1574627
+          ],
+          [
+            16.3229346,
+            48.1574286
+          ]
+        ]
+      },
+      "id": "way/3988103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4688839",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4578211,
+            48.2366488
+          ],
+          [
+            16.4584407,
+            48.2376494
+          ]
+        ]
+      },
+      "id": "way/4688839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4869805",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4576077,
+            48.2365129
+          ],
+          [
+            16.4572604,
+            48.236085
+          ],
+          [
+            16.4568023,
+            48.2356596
+          ],
+          [
+            16.4557042,
+            48.2348036
+          ],
+          [
+            16.4554237,
+            48.2345564
+          ]
+        ]
+      },
+      "id": "way/4869805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5074509",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "incline": "down",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "level": "-1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "no",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3818284,
+            48.1603825
+          ],
+          [
+            16.3816035,
+            48.1603353
+          ],
+          [
+            16.3805319,
+            48.1601203
+          ],
+          [
+            16.3801889,
+            48.1600432
+          ],
+          [
+            16.3798953,
+            48.1599673
+          ],
+          [
+            16.3796169,
+            48.1598876
+          ],
+          [
+            16.3793272,
+            48.1597967
+          ],
+          [
+            16.379025,
+            48.1596905
+          ],
+          [
+            16.3787217,
+            48.1595763
+          ],
+          [
+            16.3784008,
+            48.1594409
+          ],
+          [
+            16.3781188,
+            48.1593095
+          ],
+          [
+            16.3778244,
+            48.1591558
+          ],
+          [
+            16.3775319,
+            48.1589925
+          ],
+          [
+            16.3772907,
+            48.1588458
+          ],
+          [
+            16.3769678,
+            48.1586253
+          ],
+          [
+            16.3767117,
+            48.1584323
+          ],
+          [
+            16.3764432,
+            48.1582098
+          ],
+          [
+            16.3762121,
+            48.157997
+          ],
+          [
+            16.3760271,
+            48.1578089
+          ],
+          [
+            16.3757808,
+            48.1575261
+          ],
+          [
+            16.3755745,
+            48.1572622
+          ],
+          [
+            16.375419,
+            48.1570281
+          ],
+          [
+            16.3752899,
+            48.1568181
+          ],
+          [
+            16.3751607,
+            48.156577
+          ]
+        ]
+      },
+      "id": "way/5074509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5074511",
+        "change:lanes": "yes|not_right|not_left|yes",
+        "embankment": "yes",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3475661,
+            48.1518434
+          ],
+          [
+            16.347713,
+            48.1518924
+          ]
+        ]
+      },
+      "id": "way/5074511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8741891",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4516798,
+            48.2274128
+          ],
+          [
+            16.4519,
+            48.2278572
+          ],
+          [
+            16.4526121,
+            48.2294299
+          ],
+          [
+            16.453111,
+            48.2306029
+          ],
+          [
+            16.4536206,
+            48.2318813
+          ],
+          [
+            16.453702,
+            48.2320671
+          ]
+        ]
+      },
+      "id": "way/8741891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8741945",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4485612,
+            48.2237916
+          ],
+          [
+            16.4482652,
+            48.2230569
+          ],
+          [
+            16.4481089,
+            48.222703
+          ],
+          [
+            16.4478786,
+            48.2222171
+          ],
+          [
+            16.4476554,
+            48.2217612
+          ],
+          [
+            16.4473624,
+            48.2212032
+          ],
+          [
+            16.4472495,
+            48.2209585
+          ],
+          [
+            16.4471929,
+            48.220807
+          ],
+          [
+            16.4471416,
+            48.22065
+          ],
+          [
+            16.4470979,
+            48.2204729
+          ],
+          [
+            16.447067,
+            48.2202758
+          ],
+          [
+            16.4470448,
+            48.2199722
+          ],
+          [
+            16.4470314,
+            48.2191121
+          ]
+        ]
+      },
+      "id": "way/8741945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10647215",
+        "bridge": "yes",
+        "bridge:ref": "ES8",
+        "destination:ref": "A23",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3403375,
+            48.1520081
+          ],
+          [
+            16.3399993,
+            48.1522065
+          ],
+          [
+            16.339645,
+            48.1523949
+          ],
+          [
+            16.3392847,
+            48.1525537
+          ],
+          [
+            16.3378333,
+            48.1531095
+          ]
+        ]
+      },
+      "id": "way/10647215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10647217",
+        "destination:ref": "A23",
+        "highway": "motorway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3378333,
+            48.1531095
+          ],
+          [
+            16.3365611,
+            48.1535943
+          ],
+          [
+            16.3339929,
+            48.1545688
+          ],
+          [
+            16.3329915,
+            48.1549487
+          ],
+          [
+            16.3320831,
+            48.1552905
+          ],
+          [
+            16.3317603,
+            48.1553949
+          ],
+          [
+            16.3314379,
+            48.1554991
+          ]
+        ]
+      },
+      "id": "way/10647217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10647218",
+        "bridge": "yes",
+        "bridge:ref": "ES7",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv": "60",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3376588,
+            48.1529059
+          ],
+          [
+            16.3379695,
+            48.1528471
+          ],
+          [
+            16.3383313,
+            48.1527598
+          ],
+          [
+            16.338782,
+            48.1526237
+          ],
+          [
+            16.3391886,
+            48.1524678
+          ],
+          [
+            16.339523,
+            48.1523156
+          ],
+          [
+            16.3398685,
+            48.1521337
+          ],
+          [
+            16.3401071,
+            48.1519831
+          ]
+        ]
+      },
+      "id": "way/10647218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10647219",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv": "60",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3401071,
+            48.1519831
+          ],
+          [
+            16.3404572,
+            48.1517283
+          ],
+          [
+            16.3407113,
+            48.1515075
+          ],
+          [
+            16.3408886,
+            48.1513375
+          ]
+        ]
+      },
+      "id": "way/10647219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/11903241",
+        "destination": "Vösendorf;Liesing;Laxenburg",
+        "destination:ref": "B224",
+        "highway": "motorway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "60",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "slight_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3200528,
+            48.1579323
+          ],
+          [
+            16.3197645,
+            48.1579702
+          ],
+          [
+            16.3195182,
+            48.1580093
+          ]
+        ]
+      },
+      "id": "way/11903241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26740277",
+        "destination:lanes": "Graz;Linz;St.Pölten|Graz;Linz;St.Pölten|Wiental;Altmannsdorf;Inzersdorf",
+        "destination:ref:lanes": "A2;A21;A1|A2;A21;A1|A23;B1;B224",
+        "embankment": "yes",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "concrete",
+        "toll": "yes",
+        "turn:lanes": "none|through|slight_right;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3496911,
+            48.1524844
+          ],
+          [
+            16.3493798,
+            48.1524345
+          ],
+          [
+            16.3490956,
+            48.1523816
+          ],
+          [
+            16.348805,
+            48.1523213
+          ],
+          [
+            16.3484971,
+            48.1522499
+          ],
+          [
+            16.348161,
+            48.1521607
+          ]
+        ]
+      },
+      "id": "way/26740277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26740278",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3505912,
+            48.1524665
+          ],
+          [
+            16.3510775,
+            48.1525056
+          ],
+          [
+            16.3514115,
+            48.1525271
+          ]
+        ]
+      },
+      "id": "way/26740278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27250387",
+        "destination": "Graz;Linz;St.Pölten;Eisenstadt;Altmannsdorf;Inzersdorf",
+        "destination:country": "I;SLO;D",
+        "destination:ref": "A23;A2;A21;A1;A3;B224",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "level": "-1",
+        "maxheight:signed": "no",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "no",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3874046,
+            48.166149
+          ],
+          [
+            16.3870627,
+            48.1658665
+          ],
+          [
+            16.3868892,
+            48.1657154
+          ],
+          [
+            16.3867229,
+            48.165556
+          ],
+          [
+            16.3865689,
+            48.1654061
+          ],
+          [
+            16.3863784,
+            48.1651897
+          ],
+          [
+            16.3862091,
+            48.1649733
+          ],
+          [
+            16.3860682,
+            48.1647619
+          ]
+        ]
+      },
+      "id": "way/27250387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27250392",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "no",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.390036,
+            48.1680288
+          ],
+          [
+            16.3905038,
+            48.1683982
+          ]
+        ]
+      },
+      "id": "way/27250392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27259594",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3973486,
+            48.1711457
+          ],
+          [
+            16.3971573,
+            48.1710695
+          ],
+          [
+            16.3969321,
+            48.1709943
+          ],
+          [
+            16.3966989,
+            48.1709247
+          ],
+          [
+            16.3964362,
+            48.1708578
+          ],
+          [
+            16.3961323,
+            48.1707906
+          ],
+          [
+            16.3957524,
+            48.1707168
+          ],
+          [
+            16.3953299,
+            48.1706476
+          ],
+          [
+            16.394361,
+            48.1704959
+          ]
+        ]
+      },
+      "id": "way/27259594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27268165",
+        "cycleway:both": "no",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4155769,
+            48.192508
+          ],
+          [
+            16.4149264,
+            48.1920612
+          ]
+        ]
+      },
+      "id": "way/27268165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27268806",
+        "destination:lanes": "Graz;Linz;St.Pölten|Graz;Linz;St.Pölten|Wiental;Altmannsdorf|Inzersdorf",
+        "destination:ref:lanes": "A2;A21;A1|A2;A21;A1|A23;B1;B224|",
+        "embankment": "yes",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|through|slight_right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.347542,
+            48.1519741
+          ],
+          [
+            16.3472192,
+            48.1518594
+          ],
+          [
+            16.3469178,
+            48.1517423
+          ]
+        ]
+      },
+      "id": "way/27268806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27317264",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4602112,
+            48.240711
+          ],
+          [
+            16.4600953,
+            48.2405307
+          ]
+        ]
+      },
+      "id": "way/27317264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27317265",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4593437,
+            48.2393128
+          ],
+          [
+            16.4586045,
+            48.23811
+          ],
+          [
+            16.4585597,
+            48.2380389
+          ]
+        ]
+      },
+      "id": "way/27317265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27317266",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4601818,
+            48.2404714
+          ],
+          [
+            16.460297,
+            48.2406523
+          ]
+        ]
+      },
+      "id": "way/27317266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27677300",
+        "destination:ref": "A23",
+        "highway": "motorway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3438857,
+            48.1507077
+          ],
+          [
+            16.3436679,
+            48.1506793
+          ],
+          [
+            16.3434145,
+            48.1506656
+          ],
+          [
+            16.3431554,
+            48.1506665
+          ],
+          [
+            16.3429232,
+            48.150681
+          ],
+          [
+            16.3426816,
+            48.1507107
+          ],
+          [
+            16.3424549,
+            48.1507533
+          ],
+          [
+            16.3422255,
+            48.1508135
+          ],
+          [
+            16.3420088,
+            48.1508807
+          ],
+          [
+            16.3418354,
+            48.1509458
+          ]
+        ]
+      },
+      "id": "way/27677300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27758234",
+        "cycleway:both": "no",
+        "destination:lanes": "Graz;Eisenstadt;Linz;St.Pölten;St.Marx|Graz;Eisenstadt;Linz;St.Pölten;St.Marx|Graz;Eisenstadt;Linz;St.Pölten;St.Marx|Budapest;Bratislava;Flughafen;Alt Simmering;Zentrum;Erdberg",
+        "destination:ref:lanes": "A23;A2;A3;A21;A1|A23;A2;A3;A21;A1|A23;A2;A3;A21;A1|A4;A6;B228;B227",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "toll": "yes",
+        "turn:lanes": "none|none|through|slight_right;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4211512,
+            48.1963616
+          ],
+          [
+            16.420649,
+            48.1960112
+          ]
+        ]
+      },
+      "id": "way/27758234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27758248",
+        "cycleway:both": "no",
+        "hgv:lanes:conditional": "no|yes|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "5",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|none|none|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4279271,
+            48.2008519
+          ],
+          [
+            16.428602,
+            48.2013092
+          ],
+          [
+            16.4299762,
+            48.2022187
+          ]
+        ]
+      },
+      "id": "way/27758248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27758274",
+        "cycleway:both": "no",
+        "destination": "Graz;Linz;Eisenstadt;Budapest;Flughafen;Alt Simmering;Zentrum;St.Marx;Erdberg",
+        "destination:country": "I;SLO;D;H",
+        "destination:ref": "A23;A2;A21;A1;A3;A4;B228",
+        "destination:symbol": "airport;centre",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4327809,
+            48.2042768
+          ],
+          [
+            16.4321614,
+            48.2038523
+          ],
+          [
+            16.430799,
+            48.202922
+          ],
+          [
+            16.4298883,
+            48.2023128
+          ]
+        ]
+      },
+      "id": "way/27758274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27758398",
+        "cycleway:both": "no",
+        "destination:lanes": "Brno;Gänserndorf;Stadlau|Brno;Gänserndorf;Stadlau;Praha;Vienna Int. Centre|Praha;Vienna Int. Centre",
+        "destination:ref:lanes": "A23;S1;A5;B8;B3|A23;S1;A5;B8;B3;A22|A22",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "through|through;slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4425138,
+            48.2107921
+          ],
+          [
+            16.4436546,
+            48.2115464
+          ]
+        ]
+      },
+      "id": "way/27758398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27758427",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4459903,
+            48.2133731
+          ],
+          [
+            16.4456331,
+            48.2130779
+          ],
+          [
+            16.4451919,
+            48.2127532
+          ],
+          [
+            16.4449842,
+            48.2126107
+          ]
+        ]
+      },
+      "id": "way/27758427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27758440",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "layer": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4460727,
+            48.2133298
+          ],
+          [
+            16.4463643,
+            48.2136138
+          ],
+          [
+            16.446568,
+            48.2138508
+          ],
+          [
+            16.4467331,
+            48.2140838
+          ],
+          [
+            16.446905,
+            48.2143837
+          ],
+          [
+            16.4470079,
+            48.2146083
+          ],
+          [
+            16.4470822,
+            48.2148336
+          ],
+          [
+            16.4471476,
+            48.2151209
+          ]
+        ]
+      },
+      "id": "way/27758440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27758484",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4471476,
+            48.2151209
+          ],
+          [
+            16.4471826,
+            48.2153841
+          ],
+          [
+            16.4471871,
+            48.2156042
+          ],
+          [
+            16.4471752,
+            48.2159351
+          ],
+          [
+            16.4471486,
+            48.2162096
+          ]
+        ]
+      },
+      "id": "way/27758484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27758486",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "layer": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4470432,
+            48.2151277
+          ],
+          [
+            16.4469752,
+            48.2148443
+          ],
+          [
+            16.4469005,
+            48.2146309
+          ],
+          [
+            16.4468028,
+            48.2144058
+          ],
+          [
+            16.4466331,
+            48.2141148
+          ],
+          [
+            16.4464705,
+            48.2138873
+          ],
+          [
+            16.4462713,
+            48.2136545
+          ],
+          [
+            16.4459903,
+            48.2133731
+          ]
+        ]
+      },
+      "id": "way/27758486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/29285132",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.452879,
+            48.2304003
+          ],
+          [
+            16.4527414,
+            48.2300614
+          ]
+        ]
+      },
+      "id": "way/29285132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/29285254",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4553432,
+            48.2343275
+          ],
+          [
+            16.4557987,
+            48.2347372
+          ],
+          [
+            16.4566651,
+            48.2354287
+          ]
+        ]
+      },
+      "id": "way/29285254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48374574",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4593914,
+            48.2391883
+          ],
+          [
+            16.4595327,
+            48.2394191
+          ]
+        ]
+      },
+      "id": "way/48374574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48374575",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4594918,
+            48.2395517
+          ],
+          [
+            16.4593437,
+            48.2393128
+          ]
+        ]
+      },
+      "id": "way/48374575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48374576",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4595327,
+            48.2394191
+          ],
+          [
+            16.4601818,
+            48.2404714
+          ]
+        ]
+      },
+      "id": "way/48374576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48374577",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4600953,
+            48.2405307
+          ],
+          [
+            16.4594918,
+            48.2395517
+          ]
+        ]
+      },
+      "id": "way/48374577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/87672542",
+        "cycleway:both": "no",
+        "destination": "Brno;Gänserndorf;Stadlau",
+        "destination:country": "CZ",
+        "destination:ref": "A23;S1;A5;B8;B3",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4449716,
+            48.2124463
+          ],
+          [
+            16.4450659,
+            48.212553
+          ]
+        ]
+      },
+      "id": "way/87672542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146652371",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4471486,
+            48.2162096
+          ],
+          [
+            16.4471273,
+            48.2166518
+          ],
+          [
+            16.4471191,
+            48.2169815
+          ]
+        ]
+      },
+      "id": "way/146652371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146652378",
+        "cycleway:both": "no",
+        "destination:lanes": "Brno;Gänserndorf;Stadlau|Brno;Gänserndorf;Stadlau|Praha;Vienna Int. Centre|Praha;Vienna Int. Centre",
+        "destination:ref:lanes": "A23;S1;A5;B8;B3|A23;S1;A5;B8;B3|A22|A22",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "through|through|slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4436546,
+            48.2115464
+          ],
+          [
+            16.44445,
+            48.2120895
+          ]
+        ]
+      },
+      "id": "way/146652378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147644770",
+        "destination:lanes": "Vösendorf;Liesing;Laxenburg|Wiental;Altmannsdorf;Hetzendorf|Wiental;Altmannsdorf;Hetzendorf",
+        "destination:ref": "A23",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "reg_name": "Altmannsdorfer Ast",
+        "surface": "asphalt",
+        "toll": "yes",
+        "wikidata": "Q118521961"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3314379,
+            48.1554991
+          ],
+          [
+            16.3308539,
+            48.1557206
+          ],
+          [
+            16.3300007,
+            48.1560093
+          ],
+          [
+            16.3287783,
+            48.1563751
+          ],
+          [
+            16.3284326,
+            48.1564704
+          ],
+          [
+            16.3279059,
+            48.1566155
+          ],
+          [
+            16.3263379,
+            48.156999
+          ],
+          [
+            16.3262361,
+            48.1570183
+          ],
+          [
+            16.3251265,
+            48.1572289
+          ],
+          [
+            16.3241216,
+            48.1573899
+          ],
+          [
+            16.3237479,
+            48.1574413
+          ],
+          [
+            16.3231879,
+            48.1575182
+          ]
+        ]
+      },
+      "id": "way/147644770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147644771",
+        "destination": "Vösendorf;Liesing;Laxenburg",
+        "destination:ref": "B224",
+        "highway": "motorway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "source:maxspeed": "AT:urban",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "left|left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3195182,
+            48.1580093
+          ],
+          [
+            16.3193558,
+            48.1580329
+          ],
+          [
+            16.3192577,
+            48.1580449
+          ],
+          [
+            16.3191719,
+            48.1580548
+          ],
+          [
+            16.3191096,
+            48.1580613
+          ],
+          [
+            16.3189905,
+            48.1580723
+          ]
+        ]
+      },
+      "id": "way/147644771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147644772",
+        "destination:ref": "A23",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "reg_name": "Altmannsdorfer Ast",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "toll": "yes",
+        "wikidata": "Q118521961"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3229346,
+            48.1574286
+          ],
+          [
+            16.3237107,
+            48.1573292
+          ],
+          [
+            16.3238563,
+            48.1573106
+          ],
+          [
+            16.3248613,
+            48.1571494
+          ],
+          [
+            16.3260498,
+            48.1569231
+          ],
+          [
+            16.326183,
+            48.1568933
+          ],
+          [
+            16.3271051,
+            48.1566869
+          ]
+        ]
+      },
+      "id": "way/147644772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153582706",
+        "destination:lanes": "Graz;Linz;St.Pölten;Eisenstadt|Graz;Linz;St.Pölten;Eisenstadt|Praha;Inzersdorf",
+        "destination:ref": "A23",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "reg_name": "Altmannsdorfer Ast",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|through;right|right",
+        "wikidata": "Q118521961"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3271051,
+            48.1566869
+          ],
+          [
+            16.3276433,
+            48.1565484
+          ],
+          [
+            16.3284991,
+            48.1563281
+          ],
+          [
+            16.3297091,
+            48.1559579
+          ]
+        ]
+      },
+      "id": "way/153582706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153582707",
+        "destination:lanes": "Vösendorf;Liesing;Laxenburg|Hietzing;Hetzendorf;Atzgersdorf;Zentrum;Wiental|Hietzing;Hetzendorf;Atzgersdorf;Zentrum;Wiental",
+        "destination:ref": "B224",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "reg_name": "Altmannsdorfer Ast",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "slight_left|slight_right|slight_right",
+        "wikidata": "Q118521961"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3231879,
+            48.1575182
+          ],
+          [
+            16.3209417,
+            48.1577665
+          ],
+          [
+            16.320503,
+            48.157835
+          ],
+          [
+            16.3200528,
+            48.1579323
+          ]
+        ]
+      },
+      "id": "way/153582707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153583433",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv": "60",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3468998,
+            48.1514966
+          ],
+          [
+            16.3470304,
+            48.1515636
+          ],
+          [
+            16.3471742,
+            48.1516295
+          ]
+        ]
+      },
+      "id": "way/153583433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153583434",
+        "bridge": "yes",
+        "destination:lanes": "Wiental;Altmannsdorf|Wiental;Altmannsdorf",
+        "destination:ref": "A23",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3454735,
+            48.1511517
+          ],
+          [
+            16.3452263,
+            48.1510547
+          ],
+          [
+            16.3449573,
+            48.150964
+          ],
+          [
+            16.3446736,
+            48.150875
+          ],
+          [
+            16.3444755,
+            48.1508251
+          ],
+          [
+            16.3442298,
+            48.1507673
+          ],
+          [
+            16.3438857,
+            48.1507077
+          ]
+        ]
+      },
+      "id": "way/153583434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153583437",
+        "destination:ref": "A23",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3418354,
+            48.1509458
+          ],
+          [
+            16.3416381,
+            48.1510379
+          ],
+          [
+            16.3414473,
+            48.1511467
+          ],
+          [
+            16.3412781,
+            48.1512644
+          ],
+          [
+            16.3406391,
+            48.1517834
+          ],
+          [
+            16.3403375,
+            48.1520081
+          ]
+        ]
+      },
+      "id": "way/153583437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153583438",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "incline": "up",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "concrete",
+        "toll": "yes",
+        "turn:lanes": "none|none|through;slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3749973,
+            48.1537483
+          ],
+          [
+            16.374952,
+            48.1546349
+          ],
+          [
+            16.3749485,
+            48.1548658
+          ],
+          [
+            16.3749564,
+            48.1550878
+          ],
+          [
+            16.374984,
+            48.1553815
+          ],
+          [
+            16.3750128,
+            48.1555827
+          ],
+          [
+            16.3750623,
+            48.155811
+          ],
+          [
+            16.3751221,
+            48.1560338
+          ],
+          [
+            16.3752461,
+            48.1563757
+          ]
+        ]
+      },
+      "id": "way/153583438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153583441",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3542761,
+            48.152712
+          ],
+          [
+            16.3536462,
+            48.1527146
+          ],
+          [
+            16.3530525,
+            48.1527103
+          ],
+          [
+            16.352453,
+            48.1526963
+          ],
+          [
+            16.3518506,
+            48.1526742
+          ],
+          [
+            16.3513954,
+            48.1526499
+          ]
+        ]
+      },
+      "id": "way/153583441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153585297",
+        "destination": "Praha;Budapest;Favoriten",
+        "highway": "motorway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv": "60",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3408886,
+            48.1513375
+          ],
+          [
+            16.3412041,
+            48.1510268
+          ],
+          [
+            16.3415051,
+            48.1507445
+          ],
+          [
+            16.3418526,
+            48.1504912
+          ],
+          [
+            16.3420209,
+            48.1503957
+          ],
+          [
+            16.3421732,
+            48.1503216
+          ],
+          [
+            16.3423369,
+            48.1502559
+          ],
+          [
+            16.342467,
+            48.1502089
+          ],
+          [
+            16.3426361,
+            48.1501597
+          ],
+          [
+            16.342769,
+            48.1501255
+          ],
+          [
+            16.3429086,
+            48.1500928
+          ],
+          [
+            16.3430472,
+            48.1500679
+          ],
+          [
+            16.3431998,
+            48.1500477
+          ],
+          [
+            16.3433223,
+            48.150037
+          ],
+          [
+            16.343468,
+            48.1500267
+          ],
+          [
+            16.3436478,
+            48.1500233
+          ],
+          [
+            16.343788,
+            48.1500275
+          ],
+          [
+            16.3439078,
+            48.1500355
+          ],
+          [
+            16.3440153,
+            48.1500474
+          ],
+          [
+            16.3441681,
+            48.1500716
+          ],
+          [
+            16.3443186,
+            48.1501002
+          ],
+          [
+            16.3444646,
+            48.1501357
+          ],
+          [
+            16.344617,
+            48.1501806
+          ]
+        ]
+      },
+      "id": "way/153585297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153588752",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "no",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3867969,
+            48.1654303
+          ],
+          [
+            16.3870346,
+            48.1656591
+          ],
+          [
+            16.3872034,
+            48.1658039
+          ],
+          [
+            16.387546,
+            48.1660841
+          ],
+          [
+            16.3878273,
+            48.1663031
+          ]
+        ]
+      },
+      "id": "way/153588752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153588753",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "none|none|through;slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.394361,
+            48.1704959
+          ],
+          [
+            16.3939928,
+            48.1704259
+          ],
+          [
+            16.393646,
+            48.1703523
+          ],
+          [
+            16.3934355,
+            48.1702976
+          ]
+        ]
+      },
+      "id": "way/153588753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153588754",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "none|none|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3931458,
+            48.1702148
+          ],
+          [
+            16.392968,
+            48.1701548
+          ],
+          [
+            16.3928264,
+            48.1701021
+          ],
+          [
+            16.3926615,
+            48.1700354
+          ],
+          [
+            16.3924615,
+            48.1699441
+          ],
+          [
+            16.3922788,
+            48.1698513
+          ],
+          [
+            16.3920942,
+            48.1697486
+          ],
+          [
+            16.3919325,
+            48.1696526
+          ],
+          [
+            16.3915761,
+            48.1694138
+          ]
+        ]
+      },
+      "id": "way/153588754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153600714",
+        "change:lanes": "yes|yes|not_right|yes",
+        "cycleway:both": "no",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "A23",
+        "sidewalk": "no",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4205158,
+            48.1957616
+          ],
+          [
+            16.421031,
+            48.1961229
+          ]
+        ]
+      },
+      "id": "way/153600714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153600731",
+        "change:lanes": "yes|yes|not_right|no|no",
+        "cycleway:both": "no",
+        "destination:lanes": "Graz;Eisenstadt;Linz;St.Pölten|Graz;Eisenstadt;Linz;St.Pölten|Graz;Eisenstadt;Linz;St.Pölten|Budapest;Bratislava;Flughafen;Alt Simmering;St.Marx|Zentrum;Erdberg",
+        "destination:ref:lanes": "A23;A2;A3;A21;A1|A23;A2;A3;A21;A1|A23;A2;A3;A21;A1|A4;A6;B228;B221|B227",
+        "destination:symbol:lanes": "|||airport;park_and_ride|centre",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "5",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "toll": "yes",
+        "turn:lanes": "none|none|through|slight_right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4197812,
+            48.1953951
+          ],
+          [
+            16.4196743,
+            48.1953232
+          ]
+        ]
+      },
+      "id": "way/153600731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153600734",
+        "cycleway:both": "no",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4184512,
+            48.194314
+          ],
+          [
+            16.4196989,
+            48.1951908
+          ]
+        ]
+      },
+      "id": "way/153600734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153964775",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4450659,
+            48.212553
+          ],
+          [
+            16.4457351,
+            48.213035
+          ],
+          [
+            16.4460727,
+            48.2133298
+          ]
+        ]
+      },
+      "id": "way/153964775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153964776",
+        "cycleway:both": "no",
+        "destination": "Brno;Gänserndorf;Stadlau;Praha;Vienna Int. Centre;Kaisermühlen;Kagran;Ölhafen Lobau",
+        "destination:country": "CZ",
+        "destination:ref": "A23;S1;A5;B8;B3;A22",
+        "destination:symbol": "tunnel",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4299762,
+            48.2022187
+          ],
+          [
+            16.4305741,
+            48.2026179
+          ]
+        ]
+      },
+      "id": "way/153964776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153966268",
+        "cycleway:both": "no",
+        "destination:lanes": "Gänserndorf;Hirschstetten|Gänserndorf;Hirschstetten|Groß Enzersdorf;SMZ-Ost;Stadlau",
+        "destination:ref:lanes": "A23;S1;A5;B8|A23;S1;A5;B8|B3",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "none|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4485025,
+            48.2233065
+          ],
+          [
+            16.4486939,
+            48.2237655
+          ]
+        ]
+      },
+      "id": "way/153966268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153966269",
+        "cycleway:both": "no",
+        "destination:lanes": "Graz;Linz;Budapest;Handelskai|Graz;Linz;Budapest;Handelskai|Praha;Brno;Ölhafen Lobau;V.Int.C;Kaisermühlen",
+        "destination:ref:lanes": "A23;A2;A21;A1;A4;B14|A23;A2;A21;A1;A4;B14|A22;B7",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "none|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4470314,
+            48.2191121
+          ],
+          [
+            16.4470149,
+            48.2179171
+          ]
+        ]
+      },
+      "id": "way/153966269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153966278",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4435266,
+            48.2116139
+          ],
+          [
+            16.4427101,
+            48.2110526
+          ]
+        ]
+      },
+      "id": "way/153966278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153966279",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "5",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4298883,
+            48.2023128
+          ],
+          [
+            16.4285074,
+            48.2013969
+          ]
+        ]
+      },
+      "id": "way/153966279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153966280",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4449842,
+            48.2126107
+          ],
+          [
+            16.4435266,
+            48.2116139
+          ]
+        ]
+      },
+      "id": "way/153966280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153966281",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4285074,
+            48.2013969
+          ],
+          [
+            16.4278141,
+            48.2009253
+          ]
+        ]
+      },
+      "id": "way/153966281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153966285",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4527414,
+            48.2300614
+          ],
+          [
+            16.4524971,
+            48.2294744
+          ],
+          [
+            16.4522883,
+            48.2289957
+          ],
+          [
+            16.4520819,
+            48.2285391
+          ],
+          [
+            16.4518573,
+            48.2280592
+          ],
+          [
+            16.451706,
+            48.2277467
+          ],
+          [
+            16.4515524,
+            48.2274484
+          ]
+        ]
+      },
+      "id": "way/153966285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155022901",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4585597,
+            48.2380389
+          ],
+          [
+            16.4577697,
+            48.2367588
+          ],
+          [
+            16.4576077,
+            48.2365129
+          ]
+        ]
+      },
+      "id": "way/155022901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155022904",
+        "cycleway:both": "no",
+        "destination": "Brno;Gänserndorf;Breitenlee;Gewerbepark Kagran und Stadlau",
+        "destination:country": "CZ",
+        "destination:ref": "A23;S1;A5;B8",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4584407,
+            48.2376494
+          ],
+          [
+            16.4593914,
+            48.2391883
+          ]
+        ]
+      },
+      "id": "way/155022904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155022906",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|through;slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4566651,
+            48.2354287
+          ],
+          [
+            16.4569599,
+            48.235668
+          ],
+          [
+            16.4571987,
+            48.2358854
+          ],
+          [
+            16.4573992,
+            48.2360917
+          ],
+          [
+            16.4576014,
+            48.2363348
+          ],
+          [
+            16.4578211,
+            48.2366488
+          ]
+        ]
+      },
+      "id": "way/155022906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196737041",
+        "bridge": "yes",
+        "destination": "Wiental;Altmannsdorf",
+        "destination:ref": "A23;B1;B224",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3461093,
+            48.1513915
+          ],
+          [
+            16.3457105,
+            48.1512648
+          ],
+          [
+            16.3454735,
+            48.1511517
+          ]
+        ]
+      },
+      "id": "way/196737041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196737043",
+        "embankment": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv": "60",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3474004,
+            48.1517285
+          ],
+          [
+            16.3475661,
+            48.1518434
+          ]
+        ]
+      },
+      "id": "way/196737043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196738464",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3514115,
+            48.1525271
+          ],
+          [
+            16.351867,
+            48.1525525
+          ],
+          [
+            16.3524742,
+            48.1525745
+          ],
+          [
+            16.3530592,
+            48.152587
+          ],
+          [
+            16.3536538,
+            48.1525917
+          ],
+          [
+            16.3542728,
+            48.1525901
+          ],
+          [
+            16.3548442,
+            48.1525796
+          ],
+          [
+            16.3555041,
+            48.1525595
+          ],
+          [
+            16.356281,
+            48.1525222
+          ],
+          [
+            16.3569554,
+            48.1524807
+          ],
+          [
+            16.3575894,
+            48.1524315
+          ],
+          [
+            16.3581847,
+            48.1523767
+          ],
+          [
+            16.3592781,
+            48.1522642
+          ],
+          [
+            16.3598632,
+            48.1521959
+          ],
+          [
+            16.3605181,
+            48.1521115
+          ],
+          [
+            16.3613722,
+            48.151987
+          ],
+          [
+            16.3622879,
+            48.1518381
+          ],
+          [
+            16.3629456,
+            48.1517206
+          ]
+        ]
+      },
+      "id": "way/196738464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196738466",
+        "change:lanes": "yes|not_right|yes|yes",
+        "embankment": "yes",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "surface": "concrete",
+        "toll": "yes",
+        "turn:lanes": "none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.347713,
+            48.1518924
+          ],
+          [
+            16.3480085,
+            48.1519854
+          ],
+          [
+            16.3482999,
+            48.1520681
+          ],
+          [
+            16.3485259,
+            48.1521276
+          ],
+          [
+            16.3488056,
+            48.152193
+          ],
+          [
+            16.3491032,
+            48.1522564
+          ],
+          [
+            16.3494305,
+            48.1523164
+          ],
+          [
+            16.3497305,
+            48.152365
+          ]
+        ]
+      },
+      "id": "way/196738466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196742010",
+        "destination": "Praha;Budapest;Bratislava;Gürtel",
+        "destination:country": "CZ;H;SK",
+        "destination:ref": "A23;A22;A4;B221",
+        "destination:symbol": "airport;tunnel",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "incline": "up",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "level": "-1",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3752461,
+            48.1563757
+          ],
+          [
+            16.3753488,
+            48.1565931
+          ],
+          [
+            16.3754676,
+            48.1568111
+          ],
+          [
+            16.3755813,
+            48.1569992
+          ],
+          [
+            16.3757113,
+            48.1571981
+          ],
+          [
+            16.3759185,
+            48.1574712
+          ],
+          [
+            16.3761711,
+            48.1577556
+          ],
+          [
+            16.376359,
+            48.1579456
+          ],
+          [
+            16.3765771,
+            48.1581485
+          ],
+          [
+            16.3768388,
+            48.158363
+          ],
+          [
+            16.3771094,
+            48.1585668
+          ],
+          [
+            16.3774062,
+            48.1587662
+          ],
+          [
+            16.3776542,
+            48.1589159
+          ],
+          [
+            16.377943,
+            48.1590786
+          ],
+          [
+            16.3782337,
+            48.1592266
+          ],
+          [
+            16.3785103,
+            48.1593546
+          ],
+          [
+            16.3788073,
+            48.1594822
+          ],
+          [
+            16.3791132,
+            48.1595993
+          ],
+          [
+            16.3794008,
+            48.1596973
+          ],
+          [
+            16.3796792,
+            48.1597858
+          ],
+          [
+            16.3799426,
+            48.1598594
+          ],
+          [
+            16.3802298,
+            48.1599311
+          ],
+          [
+            16.3805708,
+            48.1600067
+          ],
+          [
+            16.3816494,
+            48.1602189
+          ],
+          [
+            16.3818839,
+            48.1602709
+          ]
+        ]
+      },
+      "id": "way/196742010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196742013",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "concrete",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3629456,
+            48.1517206
+          ],
+          [
+            16.3639851,
+            48.1515311
+          ],
+          [
+            16.3687932,
+            48.1506435
+          ]
+        ]
+      },
+      "id": "way/196742013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196746073",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "no",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3878273,
+            48.1663031
+          ],
+          [
+            16.3880319,
+            48.166464
+          ]
+        ]
+      },
+      "id": "way/196746073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196746074",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3905038,
+            48.1683982
+          ],
+          [
+            16.3911981,
+            48.1689388
+          ],
+          [
+            16.391525,
+            48.1691933
+          ],
+          [
+            16.3917184,
+            48.1693366
+          ],
+          [
+            16.3919887,
+            48.1695219
+          ],
+          [
+            16.3922021,
+            48.169654
+          ],
+          [
+            16.3923803,
+            48.1697559
+          ],
+          [
+            16.3925808,
+            48.169858
+          ],
+          [
+            16.3927531,
+            48.1699363
+          ],
+          [
+            16.3929138,
+            48.170001
+          ],
+          [
+            16.3930744,
+            48.1700614
+          ],
+          [
+            16.393233,
+            48.1701127
+          ],
+          [
+            16.3934817,
+            48.1701878
+          ],
+          [
+            16.3937247,
+            48.1702498
+          ],
+          [
+            16.3940347,
+            48.1703144
+          ],
+          [
+            16.3944089,
+            48.1703827
+          ],
+          [
+            16.3953625,
+            48.1705339
+          ],
+          [
+            16.39582,
+            48.1706099
+          ],
+          [
+            16.3961832,
+            48.1706782
+          ],
+          [
+            16.396483,
+            48.1707426
+          ],
+          [
+            16.396752,
+            48.1708123
+          ],
+          [
+            16.3970189,
+            48.1708918
+          ],
+          [
+            16.3972345,
+            48.1709678
+          ],
+          [
+            16.3974435,
+            48.1710495
+          ]
+        ]
+      },
+      "id": "way/196746074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196764094",
+        "cycleway:both": "no",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.421031,
+            48.1961229
+          ],
+          [
+            16.4212656,
+            48.1962874
+          ]
+        ]
+      },
+      "id": "way/196764094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196764096",
+        "change:lanes": "yes|yes|not_right|yes|yes",
+        "cycleway:both": "no",
+        "hgv:lanes:conditional": "no|yes|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "5",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4199788,
+            48.1953851
+          ],
+          [
+            16.4205158,
+            48.1957616
+          ]
+        ]
+      },
+      "id": "way/196764096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196764097",
+        "change:lanes": "yes|yes|not_right|not_left|yes",
+        "cycleway:both": "no",
+        "hgv:lanes:conditional": "no|yes|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "5",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4196989,
+            48.1951908
+          ],
+          [
+            16.4199788,
+            48.1953851
+          ]
+        ]
+      },
+      "id": "way/196764097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196764098",
+        "cycleway:both": "no",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4305741,
+            48.2026179
+          ],
+          [
+            16.4312219,
+            48.20306
+          ],
+          [
+            16.431922,
+            48.2035401
+          ],
+          [
+            16.4328897,
+            48.2042045
+          ]
+        ]
+      },
+      "id": "way/196764098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198023342",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4427101,
+            48.2110526
+          ],
+          [
+            16.44241,
+            48.2108452
+          ]
+        ]
+      },
+      "id": "way/198023342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198025481",
+        "cycleway:both": "no",
+        "destination:lanes": "Graz;Eisenstadt;Linz;St.Pölten|Graz;Eisenstadt;Linz;St.Pölten|Graz;Eisenstadt;Linz;St.Pölten|Budapest;Bratislava;Flughafen;Alt Simmering;St.Marx|Zentrum;Erdberg",
+        "destination:ref:lanes": "A23;A2;A3;A21;A1|A23;A2;A3;A21;A1|A23;A2;A3;A21;A1|A4;A6;B228;B221|B227",
+        "destination:symbol:lanes": "|||airport;park_and_ride|centre",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "5",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "toll": "yes",
+        "turn:lanes": "none|none|through|slight_right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4204224,
+            48.1958516
+          ],
+          [
+            16.4200888,
+            48.1956139
+          ],
+          [
+            16.4197812,
+            48.1953951
+          ]
+        ]
+      },
+      "id": "way/198025481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198025482",
+        "cycleway:both": "no",
+        "destination:lanes": "Graz;Eisenstadt;Linz;St.Pölten;St.Marx|Graz;Eisenstadt;Linz;St.Pölten;St.Marx|Graz;Eisenstadt;Linz;St.Pölten;St.Marx|Budapest;Bratislava;Flughafen;Alt Simmering;Zentrum;Erdberg",
+        "destination:ref:lanes": "A23;A2;A3;A21;A1|A23;A2;A3;A21;A1|A23;A2;A3;A21;A1|A4;A6;B228;B227",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "sidewalk": "no",
+        "toll": "yes",
+        "turn:lanes": "none|none|through|slight_right;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.420649,
+            48.1960112
+          ],
+          [
+            16.4204224,
+            48.1958516
+          ]
+        ]
+      },
+      "id": "way/198025482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198035947",
+        "bridge": "yes",
+        "destination:lanes": "Graz;Linz;St.Pölten|Graz;Linz;St.Pölten|Wiental;Altmannsdorf|Wiental;Altmannsdorf|Inzersdorf",
+        "destination:ref:lanes": "A2;A21;A1|A2;A21;A1|A23;B1;B224|A23;B1;B224|",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "5",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|through|slight_right|slight_right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3469178,
+            48.1517423
+          ],
+          [
+            16.3466444,
+            48.1516294
+          ],
+          [
+            16.3464145,
+            48.1515309
+          ],
+          [
+            16.3461093,
+            48.1513915
+          ]
+        ]
+      },
+      "id": "way/198035947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198035951",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "level": "-1",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "no",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3860682,
+            48.1647619
+          ],
+          [
+            16.3859524,
+            48.16455
+          ],
+          [
+            16.385864,
+            48.1643667
+          ],
+          [
+            16.3857849,
+            48.1641718
+          ],
+          [
+            16.3857144,
+            48.1639626
+          ],
+          [
+            16.3854881,
+            48.1631868
+          ],
+          [
+            16.3854181,
+            48.1629736
+          ],
+          [
+            16.3853202,
+            48.162743
+          ],
+          [
+            16.3851958,
+            48.1625053
+          ],
+          [
+            16.3850933,
+            48.1623393
+          ],
+          [
+            16.3849766,
+            48.1621734
+          ],
+          [
+            16.3848371,
+            48.1619985
+          ],
+          [
+            16.3846989,
+            48.1618503
+          ]
+        ]
+      },
+      "id": "way/198035951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198035952",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "incline": "down",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "concrete",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3747723,
+            48.1550985
+          ],
+          [
+            16.3747636,
+            48.1548592
+          ],
+          [
+            16.3747682,
+            48.1546098
+          ],
+          [
+            16.3748132,
+            48.1537567
+          ]
+        ]
+      },
+      "id": "way/198035952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198035953",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3575973,
+            48.1525543
+          ],
+          [
+            16.356959,
+            48.1526037
+          ],
+          [
+            16.3562906,
+            48.1526456
+          ],
+          [
+            16.3554909,
+            48.1526824
+          ],
+          [
+            16.3548482,
+            48.152702
+          ],
+          [
+            16.3542761,
+            48.152712
+          ]
+        ]
+      },
+      "id": "way/198035953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263614298",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "incline": "up",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "reg_name": "Hanssonkurve",
+        "reg_name:etymology:wikidata": "Q2069816",
+        "reg_name:etymology:wikipedia": "de:Per-Albin-Hansson-Siedlung",
+        "surface": "concrete",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3687932,
+            48.1506435
+          ],
+          [
+            16.3692704,
+            48.1505644
+          ],
+          [
+            16.3696489,
+            48.1505093
+          ],
+          [
+            16.3699455,
+            48.1504741
+          ],
+          [
+            16.3702561,
+            48.1504475
+          ],
+          [
+            16.3705087,
+            48.1504342
+          ],
+          [
+            16.370732,
+            48.1504278
+          ],
+          [
+            16.3709626,
+            48.1504298
+          ],
+          [
+            16.3712134,
+            48.1504386
+          ],
+          [
+            16.3714019,
+            48.1504552
+          ],
+          [
+            16.3716578,
+            48.1504846
+          ],
+          [
+            16.3718483,
+            48.1505145
+          ],
+          [
+            16.3720868,
+            48.1505596
+          ],
+          [
+            16.3723437,
+            48.1506218
+          ],
+          [
+            16.372586,
+            48.1506921
+          ],
+          [
+            16.3728391,
+            48.150778
+          ],
+          [
+            16.3730775,
+            48.1508734
+          ],
+          [
+            16.3732819,
+            48.1509683
+          ],
+          [
+            16.3734741,
+            48.1510713
+          ],
+          [
+            16.3736877,
+            48.1512007
+          ],
+          [
+            16.3738986,
+            48.1513459
+          ],
+          [
+            16.3740571,
+            48.1514721
+          ],
+          [
+            16.3741778,
+            48.1515796
+          ],
+          [
+            16.374302,
+            48.1517028
+          ],
+          [
+            16.3744179,
+            48.1518295
+          ],
+          [
+            16.3745363,
+            48.1519809
+          ],
+          [
+            16.3746441,
+            48.1521427
+          ],
+          [
+            16.3747224,
+            48.152282
+          ],
+          [
+            16.374786,
+            48.1524146
+          ],
+          [
+            16.3748374,
+            48.1525465
+          ],
+          [
+            16.3748805,
+            48.152674
+          ]
+        ]
+      },
+      "id": "way/263614298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263614299",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "concrete",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3688346,
+            48.1507638
+          ],
+          [
+            16.3640308,
+            48.1516491
+          ],
+          [
+            16.3629942,
+            48.1518392
+          ],
+          [
+            16.3623267,
+            48.1519568
+          ],
+          [
+            16.3614125,
+            48.1521051
+          ],
+          [
+            16.3605474,
+            48.1522332
+          ],
+          [
+            16.3599075,
+            48.1523151
+          ],
+          [
+            16.3592599,
+            48.1523907
+          ],
+          [
+            16.3581722,
+            48.1525023
+          ],
+          [
+            16.3575973,
+            48.1525543
+          ]
+        ]
+      },
+      "id": "way/263614299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263614300",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "incline": "up",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "reg_name": "Hanssonkurve",
+        "reg_name:etymology:wikidata": "Q2069816",
+        "reg_name:etymology:wikipedia": "de:Per-Albin-Hansson-Siedlung",
+        "surface": "concrete",
+        "toll": "yes",
+        "turn:lanes": "none|none|through;slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3749977,
+            48.15352
+          ],
+          [
+            16.3749973,
+            48.1537483
+          ]
+        ]
+      },
+      "id": "way/263614300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263614301",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "incline": "down",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "reg_name": "Hanssonkurve",
+        "reg_name:etymology:wikidata": "Q2069816",
+        "reg_name:etymology:wikipedia": "de:Per-Albin-Hansson-Siedlung",
+        "surface": "concrete",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3748132,
+            48.1537567
+          ],
+          [
+            16.3748128,
+            48.153522
+          ],
+          [
+            16.374802,
+            48.1532803
+          ],
+          [
+            16.374785,
+            48.1531002
+          ],
+          [
+            16.3747509,
+            48.152902
+          ],
+          [
+            16.3747004,
+            48.1526982
+          ],
+          [
+            16.3746546,
+            48.1525675
+          ],
+          [
+            16.3746039,
+            48.1524435
+          ],
+          [
+            16.3745492,
+            48.1523247
+          ],
+          [
+            16.3744673,
+            48.1521777
+          ],
+          [
+            16.3743643,
+            48.152028
+          ],
+          [
+            16.3742484,
+            48.151881
+          ],
+          [
+            16.3741268,
+            48.1517509
+          ],
+          [
+            16.3740176,
+            48.1516442
+          ],
+          [
+            16.3738919,
+            48.1515316
+          ],
+          [
+            16.3737474,
+            48.1514187
+          ],
+          [
+            16.3735645,
+            48.1512936
+          ],
+          [
+            16.3733827,
+            48.1511836
+          ],
+          [
+            16.3731955,
+            48.1510817
+          ],
+          [
+            16.3729785,
+            48.1509804
+          ],
+          [
+            16.3727425,
+            48.1508854
+          ],
+          [
+            16.3724942,
+            48.1507985
+          ],
+          [
+            16.3722708,
+            48.1507345
+          ],
+          [
+            16.3720271,
+            48.1506771
+          ],
+          [
+            16.3717899,
+            48.150631
+          ],
+          [
+            16.3715978,
+            48.1506034
+          ],
+          [
+            16.3713784,
+            48.1505775
+          ],
+          [
+            16.3711652,
+            48.1505615
+          ],
+          [
+            16.3709489,
+            48.1505522
+          ],
+          [
+            16.3707071,
+            48.1505523
+          ],
+          [
+            16.3704934,
+            48.1505582
+          ],
+          [
+            16.3702595,
+            48.1505707
+          ],
+          [
+            16.3699807,
+            48.1505957
+          ],
+          [
+            16.3696771,
+            48.1506317
+          ],
+          [
+            16.3693029,
+            48.1506851
+          ],
+          [
+            16.3688346,
+            48.1507638
+          ]
+        ]
+      },
+      "id": "way/263614301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/313173102",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "none|none|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3915761,
+            48.1694138
+          ],
+          [
+            16.3913968,
+            48.1692799
+          ],
+          [
+            16.3910961,
+            48.1690441
+          ],
+          [
+            16.3898964,
+            48.1681033
+          ]
+        ]
+      },
+      "id": "way/313173102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495511496",
+        "cycleway:both": "no",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4146959,
+            48.1917449
+          ],
+          [
+            16.4157081,
+            48.1924294
+          ]
+        ]
+      },
+      "id": "way/495511496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495511498",
+        "cycleway:both": "no",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4171752,
+            48.1934309
+          ],
+          [
+            16.4177774,
+            48.1938524
+          ]
+        ]
+      },
+      "id": "way/495511498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/497842343",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv": "60",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3450251,
+            48.1503288
+          ],
+          [
+            16.3452125,
+            48.1504157
+          ],
+          [
+            16.345409,
+            48.1505213
+          ],
+          [
+            16.3456044,
+            48.1506369
+          ],
+          [
+            16.3457965,
+            48.1507703
+          ],
+          [
+            16.3461083,
+            48.1509951
+          ],
+          [
+            16.3463004,
+            48.1511315
+          ],
+          [
+            16.3464436,
+            48.1512276
+          ],
+          [
+            16.3466587,
+            48.1513662
+          ],
+          [
+            16.3468998,
+            48.1514966
+          ]
+        ]
+      },
+      "id": "way/497842343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/570439305",
+        "cycleway:both": "no",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4177774,
+            48.1938524
+          ],
+          [
+            16.4184512,
+            48.194314
+          ]
+        ]
+      },
+      "id": "way/570439305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/603995735",
+        "cycleway:both": "no",
+        "destination": "Graz;Eisenstadt;Linz;St.Pölten",
+        "destination:country": "I;SLO;D",
+        "destination:ref": "A23;A2;A3;A21;A1",
+        "fixme": "placement=transition, hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "sidewalk": "no",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4196743,
+            48.1953232
+          ],
+          [
+            16.4188503,
+            48.1947425
+          ],
+          [
+            16.4180712,
+            48.1942076
+          ],
+          [
+            16.4173034,
+            48.1936833
+          ],
+          [
+            16.4170446,
+            48.1935123
+          ]
+        ]
+      },
+      "id": "way/603995735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607765924",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "incline": "down",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "no",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3748002,
+            48.1554039
+          ],
+          [
+            16.3747723,
+            48.1550985
+          ]
+        ]
+      },
+      "id": "way/607765924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607765926",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "incline": "down",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "no",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3751607,
+            48.156577
+          ],
+          [
+            16.3750602,
+            48.1563458
+          ],
+          [
+            16.3749529,
+            48.1560551
+          ],
+          [
+            16.3748863,
+            48.155835
+          ],
+          [
+            16.3748341,
+            48.1556042
+          ],
+          [
+            16.3748002,
+            48.1554039
+          ]
+        ]
+      },
+      "id": "way/607765926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607765930",
+        "cycleway:both": "no",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4149264,
+            48.1920612
+          ],
+          [
+            16.41458,
+            48.1918198
+          ]
+        ]
+      },
+      "id": "way/607765930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/609090891",
+        "fixme": "hgv:lanes:conditional",
+        "hgv:lanes:conditional": "no|yes|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "no",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|none|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3879057,
+            48.16655
+          ],
+          [
+            16.387683,
+            48.1663759
+          ],
+          [
+            16.3874046,
+            48.166149
+          ]
+        ]
+      },
+      "id": "way/609090891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/685377717",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "incline": "up",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "reg_name": "Hanssonkurve",
+        "reg_name:etymology:wikidata": "Q2069816",
+        "reg_name:etymology:wikipedia": "de:Per-Albin-Hansson-Siedlung",
+        "surface": "concrete",
+        "toll": "yes",
+        "turn:lanes": "none|none|through;slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3748805,
+            48.152674
+          ],
+          [
+            16.3749358,
+            48.1528853
+          ],
+          [
+            16.3749659,
+            48.1530686
+          ],
+          [
+            16.3749864,
+            48.1532752
+          ],
+          [
+            16.3749977,
+            48.15352
+          ]
+        ]
+      },
+      "id": "way/685377717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/776943282",
+        "destination:lanes": "Graz;Linz;St.Pölten|Graz;Linz;St.Pölten|Wiental;Altmannsdorf;Inzersdorf",
+        "destination:ref:lanes": "A2;A21;A1|A2;A21;A1|A23;B1;B224",
+        "embankment": "yes",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes",
+        "turn:lanes": "none|through|slight_right;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.348161,
+            48.1521607
+          ],
+          [
+            16.347861,
+            48.152075
+          ],
+          [
+            16.347542,
+            48.1519741
+          ]
+        ]
+      },
+      "id": "way/776943282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/780641895",
+        "bridge": "yes",
+        "destination:lanes": "Graz;Linz;St.Pölten|Graz;Linz;St.Pölten|Wiental;Altmannsdorf;Inzersdorf",
+        "destination:ref:lanes": "A2;A21;A1|A2;A21;A1|A23;B1;B224",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "concrete",
+        "toll": "yes",
+        "turn:lanes": "none|through|slight_right;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3513954,
+            48.1526499
+          ],
+          [
+            16.350943,
+            48.1526189
+          ],
+          [
+            16.3505856,
+            48.1525897
+          ],
+          [
+            16.3502084,
+            48.1525514
+          ]
+        ]
+      },
+      "id": "way/780641895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/780730904",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "3",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4471287,
+            48.2179168
+          ],
+          [
+            16.4471595,
+            48.2199682
+          ],
+          [
+            16.4471815,
+            48.2202718
+          ],
+          [
+            16.4472126,
+            48.2204628
+          ],
+          [
+            16.4472547,
+            48.220636
+          ],
+          [
+            16.4473054,
+            48.2207946
+          ],
+          [
+            16.4473602,
+            48.2209391
+          ],
+          [
+            16.4474714,
+            48.2211806
+          ],
+          [
+            16.4477634,
+            48.2217369
+          ],
+          [
+            16.447988,
+            48.2221975
+          ],
+          [
+            16.4482742,
+            48.2227894
+          ],
+          [
+            16.4483884,
+            48.223041
+          ],
+          [
+            16.4485025,
+            48.2233065
+          ]
+        ]
+      },
+      "id": "way/780730904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/780730905",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "int_ref": "E 461",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4470044,
+            48.2169823
+          ],
+          [
+            16.4470208,
+            48.2165245
+          ],
+          [
+            16.4470707,
+            48.2157515
+          ],
+          [
+            16.4470662,
+            48.2153835
+          ],
+          [
+            16.4470432,
+            48.2151277
+          ]
+        ]
+      },
+      "id": "way/780730905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/781759382",
+        "bridge": "yes",
+        "destination": "Praha;Budapest;Favoriten",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv": "60",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.344617,
+            48.1501806
+          ],
+          [
+            16.3447502,
+            48.1502222
+          ],
+          [
+            16.3448772,
+            48.1502685
+          ],
+          [
+            16.3450251,
+            48.1503288
+          ]
+        ]
+      },
+      "id": "way/781759382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1211158319",
+        "change:lanes": "yes|not_right|not_left|yes",
+        "cycleway:both": "no",
+        "destination:lanes": "Brno;Gänserndorf;Stadlau|Brno;Gänserndorf;Stadlau|Praha;Vienna Int. Centre|Praha;Vienna Int. Centre",
+        "destination:ref:lanes": "A23;S1;A5;B8;B3|A23;S1;A5;B8;B3|A22|A22",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "80",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "through|through|slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.44445,
+            48.2120895
+          ],
+          [
+            16.4449716,
+            48.2124463
+          ]
+        ]
+      },
+      "id": "way/1211158319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217915037",
+        "hgv:lanes:conditional": "no|yes|yes @ (weight>7.5)",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "A23",
+        "toll": "yes",
+        "turn:lanes": "none|none|through;slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3934355,
+            48.1702976
+          ],
+          [
+            16.3931458,
+            48.1702148
+          ]
+        ]
+      },
+      "id": "way/1217915037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1296114317",
+        "bridge": "yes",
+        "destination:lanes": "Graz;Linz;St.Pölten|Graz;Linz;St.Pölten|Wiental;Altmannsdorf;Inzersdorf",
+        "destination:ref:lanes": "A2;A21;A1|A2;A21;A1|A23;B1;B224",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv:conditional": "60 @ (weight>7.5)",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "ref": "A23",
+        "surface": "concrete",
+        "toll": "yes",
+        "turn:lanes": "none|through|slight_right;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3502084,
+            48.1525514
+          ],
+          [
+            16.3499645,
+            48.1525217
+          ],
+          [
+            16.3496911,
+            48.1524844
+          ]
+        ]
+      },
+      "id": "way/1296114317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1296114318",
+        "bridge": "yes",
+        "change:lanes": "yes|not_right|yes|yes",
+        "highway": "motorway",
+        "int_ref": "E 59",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:variable": "peak_traffic",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A23",
+        "surface": "concrete",
+        "toll": "yes",
+        "turn:lanes": "none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3497305,
+            48.152365
+          ],
+          [
+            16.3499417,
+            48.1523947
+          ],
+          [
+            16.3502566,
+            48.1524331
+          ],
+          [
+            16.3505912,
+            48.1524665
+          ]
+        ]
+      },
+      "id": "way/1296114318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1296114320",
+        "embankment": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:hgv": "60",
+        "name": "Südosttangente",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "A23",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3471742,
+            48.1516295
+          ],
+          [
+            16.3474004,
+            48.1517285
+          ]
+        ]
+      },
+      "id": "way/1296114320"
+    }
+  ]
+}
