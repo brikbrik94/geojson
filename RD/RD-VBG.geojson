@@ -1,0 +1,384 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-06T07:23:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119496522",
+        "addr:city": "Bregenz",
+        "addr:country": "AT",
+        "addr:housenumber": "109",
+        "addr:postcode": "6900",
+        "addr:street": "Arlbergstraße",
+        "ambulance_station:emergency_doctor": "no",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "construction_date": "2018-10-15",
+        "contact:phone": "+43 5574 77300 0",
+        "contact:website": "https://www.roteskreuz.at/vbg/dienststellen/bregenz/",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz-Abteilung Bregenz",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg",
+        "short_name": "ÖRK",
+        "source": "Survey 11.2017",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-abteilung-bregenz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7336328,
+          47.4913299
+        ]
+      },
+      "id": "way/119496522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124269181",
+        "addr:city": "Dornbirn",
+        "addr:country": "AT",
+        "addr:housenumber": "36a",
+        "addr:postcode": "6850",
+        "addr:street": "Höchster Straße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "check_date": "2025-08-16",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz-Abteilung Dornbirn",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.729211,
+          47.4123426
+        ]
+      },
+      "id": "way/124269181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202537450",
+        "addr:city": "Bludenz",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "6700",
+        "addr:street": "Walserweg",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "construction_date": "2010-03-18",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz-Abteilung Bludenz",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-abteilung-bludenz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8196518,
+          47.1600049
+        ]
+      },
+      "id": "way/202537450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/335981087",
+        "addr:city": "Feldkirch",
+        "addr:country": "AT",
+        "addr:housenumber": "130",
+        "addr:postcode": "6800",
+        "addr:street": "Reichsstraße",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "building:levels": "4",
+        "construction_date": "2013-12-01",
+        "description": "Rettungszentrale Feldkirch\nArbeiter Samariter Bund Feldkirch",
+        "emergency": "ambulance_station",
+        "name": "Rettungszentrale Rotkreuz-Abteilung Samariterbund Feldkirch",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg Arbeiter Samariter Bund Feldkirch, Landesverband Vorarlberg",
+        "roof:shape": "flat",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-abteilung-feldkirch",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6098764,
+          47.2476867
+        ]
+      },
+      "id": "way/335981087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/587430870",
+        "addr:city": "St. Gallenkirch",
+        "addr:country": "AT",
+        "addr:housenumber": "26c",
+        "addr:postcode": "6791",
+        "addr:street": "Zamangweg",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2021-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "public",
+        "contact:website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-abteilung-bludenz",
+        "emergency": "ambulance_station",
+        "name": "Roteskreuz-Abteilung Bludenz Außenstelle St. Gallenkirch",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9719256,
+          47.0216928
+        ]
+      },
+      "id": "way/587430870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/640908684",
+        "addr:city": "Hohenems",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "6845",
+        "addr:street": "Kaiserin-Elisabeth-Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "construction_date": "2019-01-01",
+        "contact:website": "https://www.roteskreuz.at/vbg/dienststellen/hohenems/",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz Abteilung Hohenems",
+        "office": "association",
+        "operator": "Österreichisches Rotes Kreuz Landesverband Vorarlberg",
+        "phone": "+43 5576 90900",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-abteilung-hohenems",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6817748,
+          47.3623712
+        ]
+      },
+      "id": "way/640908684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653524045",
+        "addr:city": "Sonntag",
+        "addr:country": "AT",
+        "addr:housenumber": "35",
+        "addr:postcode": "6731",
+        "addr:street": "Sand",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz-Abteilung Bludenz Außenstelle Sonntag",
+        "opening_hours": "08:00-19:00",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-abteilung-bludenz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8874665,
+          47.2331654
+        ]
+      },
+      "id": "way/653524045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653526083",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "building:part": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz-Ortsstelle Lech",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1521086,
+          47.2179855
+        ]
+      },
+      "id": "way/653526083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1203128606",
+        "addr:city": "Lustenau",
+        "addr:housenumber": "8",
+        "addr:postcode": "6890",
+        "addr:street": "Schützengartenstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building:part": "yes",
+        "contact:website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-abteilung-lustenau",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz-Abteilung Lustenau",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6536457,
+          47.4198849
+        ]
+      },
+      "id": "way/1203128606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2949264917",
+        "addr:city": "Riezlern",
+        "addr:housenumber": "24",
+        "addr:postcode": "6991",
+        "addr:street": "Walserstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "emergency": "ambulance_station",
+        "name": "Walser Rettung",
+        "operator": "Bayerisches Rotes Kreuz",
+        "source": "survey",
+        "website": "https://www.walser-rettung.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1905617,
+          47.3604077
+        ]
+      },
+      "id": "node/2949264917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8296698497",
+        "addr:city": "Egg",
+        "addr:housenumber": "1144",
+        "addr:postcode": "6863",
+        "addr:street": "Gerbe",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz-Abteilung Bregenzerwald",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8976003,
+          47.4330373
+        ]
+      },
+      "id": "node/8296698497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8296747188",
+        "addr:city": "Warth",
+        "addr:housenumber": "12",
+        "addr:postcode": "6767",
+        "addr:street": "Warth",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "description": "only staffed during winter months",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Außenstelle Warth",
+        "operator": "Rotes Kreuz Vorarlberg",
+        "seasonal": "winter",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1822305,
+          47.2576664
+        ]
+      },
+      "id": "node/8296747188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8296759511",
+        "addr:city": "Au",
+        "addr:housenumber": "484",
+        "addr:postcode": "6883",
+        "addr:street": "Schrecken",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz Ortsstelle Au",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-ortsstelle-au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9831549,
+          47.3228601
+        ]
+      },
+      "id": "node/8296759511"
+    }
+  ]
+}

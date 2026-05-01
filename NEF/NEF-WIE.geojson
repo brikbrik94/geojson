@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-06T07:18:37Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90991378",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "21",
+        "addr:postcode": "1100",
+        "addr:street": "Grenzackerstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "building": "hospital",
+        "emergency": "ambulance_station",
+        "name": "Wiener Berufsrettung Rettungsstation Favoriten",
+        "operator": "Wiener Berufsrettung",
+        "operator:wikidata": "Q74346929",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3746667,
+          48.1636529
+        ]
+      },
+      "id": "way/90991378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11101303870",
+        "ambulance_station:emergency_doctor": "yes",
+        "emergency": "ambulance_station",
+        "name": "Wiener Berufsrettung Notarztstützpunkt Traumazentrum Meidling",
+        "operator": "Wiener Berufsrettung",
+        "operator:wikidata": "Q74346929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3443018,
+          48.1731096
+        ]
+      },
+      "id": "node/11101303870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11101315890",
+        "addr:city": "Wien",
+        "addr:housenumber": "122",
+        "addr:postcode": "1220",
+        "addr:street": "Langobardenstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "emergency": "ambulance_station",
+        "name": "Wiener Berufsrettung Notarztstützpunkt Donaustadt",
+        "operator": "Wiener Berufsrettung",
+        "operator:wikidata": "Q74346929",
+        "website": "https://www.wien.gv.at/gesundheit/einrichtungen/rettung/organisation/stationen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4639524,
+          48.2190749
+        ]
+      },
+      "id": "node/11101315890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11101340276",
+        "addr:city": "Wien",
+        "addr:housenumber": "18-20",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Gürtel",
+        "ambulance_station:emergency_doctor": "yes",
+        "emergency": "ambulance_station",
+        "name": "Wiener Berufsrettung Notarztstützpunkt AKH Wien",
+        "operator": "Wiener Berufsrettung",
+        "operator:wikidata": "Q74346929",
+        "website": "https://www.wien.gv.at/gesundheit/einrichtungen/rettung/organisation/stationen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3456761,
+          48.2212729
+        ]
+      },
+      "id": "node/11101340276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11101356661",
+        "addr:city": "Wien",
+        "addr:housenumber": "1",
+        "addr:postcode": "1130",
+        "addr:street": "Wolkersbergenstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "emergency": "ambulance_station",
+        "name": "Wiener Berufsrettung Notarztstützpunkt Hietzing",
+        "operator": "Wiener Berufsrettung",
+        "operator:wikidata": "Q74346929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2750992,
+          48.1727065
+        ]
+      },
+      "id": "node/11101356661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11101397047",
+        "ambulance_station:emergency_doctor": "yes",
+        "emergency": "ambulance_station",
+        "name": "Wiener Berufsrettung Notarztstützpunkt Wilhelminenspital Klinik Ottakring",
+        "operator": "Wiener Berufsrettung",
+        "operator:wikidata": "Q74346929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3006995,
+          48.2104142
+        ]
+      },
+      "id": "node/11101397047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11691727120",
+        "addr:city": "Wien",
+        "addr:housenumber": "68",
+        "addr:postcode": "1221",
+        "addr:street": "Brünner Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "construction_date": "2019-10-04",
+        "emergency": "ambulance_station",
+        "name": "Wiener Berufsrettung Rettungsstation Floridsdorf",
+        "operator": "Wiener Berufsrettung",
+        "operator:wikidata": "Q74346929",
+        "website": "https://www.wien.gv.at/gesundheit/einrichtungen/rettung/organisation/stationen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.405458,
+          48.2688243
+        ]
+      },
+      "id": "node/11691727120"
+    }
+  ]
+}

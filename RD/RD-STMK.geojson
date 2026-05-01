@@ -1,0 +1,2764 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-06T07:23:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1277289",
+        "addr:city": "Graz",
+        "addr:housenumber": "151",
+        "addr:postcode": "8010",
+        "addr:street": "Münzgrabenstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "public",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Graz Stadt",
+        "operator": "Österreichisches Rotes Kreuz",
+        "phone": "+43 501445 16000",
+        "short_name": "ÖRK",
+        "type": "multipolygon",
+        "website": "https://www.roteskreuz.at/steiermark/graz-stadt/ueber-die-bezirksstelle-graz-stadt/unsere-bezirksstelle",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4553721,
+          47.0547921
+        ]
+      },
+      "id": "relation/1277289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30364838",
+        "addr:city": "Krieglach",
+        "addr:country": "AT",
+        "addr:housenumber": "49",
+        "addr:postcode": "8670",
+        "addr:street": "Alplstraße",
+        "ambulance_station:patient_transport": "yes",
+        "amenity": "fire_station",
+        "at_bev:addr_date": "2016-10-02",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Krieglach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "wikidata": "Q116760398",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5672744,
+          47.545116
+        ]
+      },
+      "id": "way/30364838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30367448",
+        "addr:city": "Knittelfeld",
+        "addr:country": "AT",
+        "addr:housenumber": "4a - 6",
+        "addr:postcode": "8720",
+        "addr:street": "Gaaler Straße",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Knittelfeld",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8228411,
+          47.2152323
+        ]
+      },
+      "id": "way/30367448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30382843",
+        "addr:city": "Wagna",
+        "addr:housenumber": "12",
+        "addr:postcode": "8435",
+        "addr:street": "Metlika Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building:part": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Leibnitz",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "plan.at 2009,bing",
+        "website": "https://www.roteskreuz.at/steiermark/leibnitz/home",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5564615,
+          46.7693003
+        ]
+      },
+      "id": "way/30382843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30479376",
+        "addr:city": "Hartberg",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "8230",
+        "addr:street": "Rotkreuzplatz",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Ortsstelle Hartberg",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "http://www.roteskreuz.at/",
+        "website": "https://www.roteskreuz.at/steiermark/landesverband-und-bezirksstellen/hartberg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9652053,
+          47.2731672
+        ]
+      },
+      "id": "way/30479376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/72577940",
+        "addr:city": "Sankt Peter am Ottersbach",
+        "addr:country": "AT",
+        "addr:housenumber": "257",
+        "addr:postcode": "8093",
+        "addr:street": "Hauptstraße",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Sankt Peter am Ottersbach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "phone": "+4334762144",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7616828,
+          46.7955244
+        ]
+      },
+      "id": "way/72577940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/81847673",
+        "addr:city": "Bruck an der Mur",
+        "addr:country": "AT",
+        "addr:housenumber": "9",
+        "addr:postcode": "8600",
+        "addr:street": "Tragösser Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Ortsstelle Bruck-Mürzzuschlag",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source:address": "basemap.at",
+        "website": "https://www.roteskreuz.at/steiermark/bruck-muerzzuschlag/ueber-die-bezirksstelle-muerzzuschlag",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2645083,
+          47.4234314
+        ]
+      },
+      "id": "way/81847673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85890649",
+        "addr:city": "Leoben",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "8700",
+        "addr:street": "Rot Kreuz-Platz",
+        "addr:suburb": "Waasen",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Ortsstelle Leoben",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "phone": "+43 50 144 5 23 100",
+        "short_name": "ÖRK",
+        "source": "geoimage.at;survey",
+        "website": "https://www.roteskreuz.at/steiermark/leoben/home",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0849645,
+          47.3778052
+        ]
+      },
+      "id": "way/85890649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93698370",
+        "addr:city": "Stainach",
+        "addr:housenumber": "332",
+        "addr:postcode": "8950",
+        "addr:street": "Salzburgerstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "building:colour": "#d8e3df",
+        "building:levels": "2",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Stainach",
+        "operator": "Österreichisches Rotes Kreuz Landesverband Stainach",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/liezen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1021555,
+          47.5316883
+        ]
+      },
+      "id": "way/93698370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98122668",
+        "addr:city": "Frohnleiten",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "8130",
+        "addr:street": "Brucker Straße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2016-10-02",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Frohnleiten",
+        "operator": "Österreichisches Rotes Kreuz",
+        "website": "https://www.roteskreuz.at/steiermark/bruck-muerzzuschlag/das-team-der-bezirksstelle-1-2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3276164,
+          47.273615
+        ]
+      },
+      "id": "way/98122668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98122678",
+        "addr:city": "Nestelbach bei Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "51",
+        "addr:place": "Schemerlhöhe",
+        "addr:postcode": "8302",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Nestelbach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "GeoImage.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.609318,
+          47.0548895
+        ]
+      },
+      "id": "way/98122678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98122683",
+        "addr:city": "Gratkorn",
+        "addr:country": "AT",
+        "addr:housenumber": "21",
+        "addr:postcode": "8101",
+        "addr:street": "Brucker Straße",
+        "addr:suburb": "Kirchenviertel",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "description": "Auch bekannt als WERA.",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Gratkorn",
+        "operator": "Österreichisches Rotes Kreuz",
+        "source": "GeoImage.at",
+        "website": "https://www.roteskreuz.at/steiermark/bruck-muerzzuschlag/das-team-der-bezirksstelle-1-2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3343238,
+          47.1357759
+        ]
+      },
+      "id": "way/98122683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98122685",
+        "addr:city": "Kalsdorf bei Graz",
+        "addr:country": "AT",
+        "addr:housename": "Rotes Kreuz",
+        "addr:housenumber": "28",
+        "addr:postcode": "8401",
+        "addr:street": "Dorfstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Kalsdorf",
+        "operator": "Österreichisches Rotes Kreuz",
+        "phone": "+43 501445 17000",
+        "short_name": "ÖRK",
+        "source": "GeoImage.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4816408,
+          46.9622598
+        ]
+      },
+      "id": "way/98122685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98716622",
+        "addr:city": "Voitsberg",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "8570",
+        "addr:street": "Rot-Kreuz-Gasse",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2018-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "contact:phone": "+43 50 1445 29000",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Ortsstelle Voitsberg-Köflach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "GeoImage.at",
+        "website": "https://www.roteskreuz.at/stmk/dienststellen/voitsberg-koeflach/startseite/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1392981,
+          47.0532797
+        ]
+      },
+      "id": "way/98716622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100149274",
+        "addr:city": "Deutschlandsberg",
+        "addr:country": "AT",
+        "addr:housenumber": "31",
+        "addr:postcode": "8530",
+        "addr:street": "Radlpaßstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Dienststelle Deutschlandsberg",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "GeoImage.at",
+        "website": "https://www.roteskreuz.at/steiermark/deutschlandsberg/ueber-die-bezirksstelle-deutschlandsberg-2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2288915,
+          46.8118098
+        ]
+      },
+      "id": "way/100149274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100152985",
+        "addr:city": "Lannach",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "8502",
+        "addr:street": "Schwarzwiesenstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Lannach - St. Josef/Wstmk.",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "GeoImage.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.333705,
+          46.9423395
+        ]
+      },
+      "id": "way/100152985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102299364",
+        "addr:city": "Kapfenberg",
+        "addr:housenumber": "3",
+        "addr:postcode": "8605",
+        "addr:street": "Schinitzhof",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Kapfenberg",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/bruck-muerzzuschlag/ueber-die-bezirksstelle-muerzzuschlag",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2889147,
+          47.437559
+        ]
+      },
+      "id": "way/102299364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/108122829",
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "8020",
+        "addr:street": "Prankergasse",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "email": "steiermark@malteser.at",
+        "emergency": "ambulance_station",
+        "name": "Malteser Hospitaldienst Austria",
+        "operator": "Malteser Hospitaldienst Austria",
+        "source": "data.graz.gv.at",
+        "website": "https://www.malteser.at/wer-wir-sind/bundeslaender/steiermark-kaernten/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4261127,
+          47.0688789
+        ]
+      },
+      "id": "way/108122829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118026757",
+        "addr:city": "Gratwein-Straßengel",
+        "addr:country": "AT",
+        "addr:housenumber": "13",
+        "addr:postcode": "8111",
+        "addr:street": "Grazer Straße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2018-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Gratwein-Straßengel",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3380855,
+          47.114115
+        ]
+      },
+      "id": "way/118026757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118651194",
+        "addr:city": "Anger",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "8184",
+        "addr:street": "Roseggerstraße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Anger",
+        "operator": "Österreichisches Rotes Kreuz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6917034,
+          47.2747885
+        ]
+      },
+      "id": "way/118651194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141556843",
+        "addr:city": "Zeltweg",
+        "addr:country": "AT",
+        "addr:housenumber": "18b",
+        "addr:postcode": "8740",
+        "addr:street": "Bundesstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Stützpunkt Zeltweg",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7445112,
+          47.195385
+        ]
+      },
+      "id": "way/141556843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154725266",
+        "addr:city": "Kindberg",
+        "addr:housenumber": "10",
+        "addr:postcode": "8650",
+        "addr:street": "Wiener Straße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Kindberg",
+        "operator": "Österreichisches Rotes Kreuz",
+        "website": "https://www.roteskreuz.at/steiermark/bruck-muerzzuschlag/ueber-die-bezirksstelle-muerzzuschlag",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4520896,
+          47.5108611
+        ]
+      },
+      "id": "way/154725266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160406079",
+        "addr:city": "Eibiswald",
+        "addr:housenumber": "271",
+        "addr:place": "Eibiswald",
+        "addr:postcode": "8552",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Eibiswald",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "website": "https://www.roteskreuz.at/steiermark/deutschlandsberg/ueber-die-bezirksstelle-deutschlandsberg-2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2510615,
+          46.6895928
+        ]
+      },
+      "id": "way/160406079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/162293063",
+        "addr:city": "Rottenmann",
+        "addr:housenumber": "109c",
+        "addr:postcode": "8786",
+        "addr:street": "Hauptstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Rottenmann",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3665404,
+          47.5261103
+        ]
+      },
+      "id": "way/162293063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164165242",
+        "addr:city": "Judenburg",
+        "addr:country": "AT",
+        "addr:housenumber": "102",
+        "addr:postcode": "8750",
+        "addr:street": "Burggasse",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "construction_date": "2024-05-26",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Ortsstelle Judenburg",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Steiermark",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/landesverband-und-bezirksstellen/judenburg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6426784,
+          47.1705124
+        ]
+      },
+      "id": "way/164165242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173921923",
+        "addr:city": "Mureck",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "8480",
+        "addr:street": "Bahnhofstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "construction": "2024-07-01",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Mureck",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7711791,
+          46.7083108
+        ]
+      },
+      "id": "way/173921923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174503575",
+        "addr:city": "Birkfeld",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "8190",
+        "addr:street": "Sportplatz-Siedlung",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Birkfeld",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "phone": "+43 3174 14844",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6902343,
+          47.3499809
+        ]
+      },
+      "id": "way/174503575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/177148147",
+        "addr:city": "Sankt Stefan ob Stainz",
+        "addr:country": "AT",
+        "addr:housenumber": "132",
+        "addr:postcode": "8511",
+        "addr:street": "Sankt Stefan ob Stainz",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-04-07",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Grünes Kreuz Steiermark Ortsstelle St. Stefan ob Stainz",
+        "operator": "Grünes Kreuz Steiermark",
+        "website": "https://www.grueneskreuz-stmk.at/gruppen/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2541017,
+          46.9297117
+        ]
+      },
+      "id": "way/177148147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/177148178",
+        "addr:city": "Sankt Stefan ob Stainz",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:place": "St. Stefan ob Stainz",
+        "addr:postcode": "8511",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-04-07",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle St. Stefan/Stainz",
+        "operator": "Rotes Kreuz",
+        "phone": "144",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2545254,
+          46.9294654
+        ]
+      },
+      "id": "way/177148178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179154051",
+        "addr:city": "Weiz",
+        "addr:country": "AT",
+        "addr:housenumber": "79",
+        "addr:postcode": "8160",
+        "addr:street": "Franz-Pichler-Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "construction_date": "2021-01-01",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Weiz",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6355426,
+          47.2127124
+        ]
+      },
+      "id": "way/179154051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/186303375",
+        "addr:city": "Feldbach",
+        "addr:country": "AT",
+        "addr:housenumber": "57",
+        "addr:postcode": "8330",
+        "addr:street": "Schillerstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "commercial",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Feldbach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "GeoImage.at High-Res",
+        "website": "https://www.roteskreuz.at/steiermark/landesverband-und-bezirksstellen/feldbach",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.878956,
+          46.9525841
+        ]
+      },
+      "id": "way/186303375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/193085237",
+        "addr:city": "Bad Mitterndorf",
+        "addr:country": "AT",
+        "addr:housenumber": "77",
+        "addr:place": "Thörl",
+        "addr:postcode": "8983",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-04-07",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "check_date": "2025-07-22",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Bad Mitterndorf",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/liezen/die-ortsstellen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9470017,
+          47.554839
+        ]
+      },
+      "id": "way/193085237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/193573796",
+        "addr:city": "Fohnsdorf",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "8753",
+        "addr:street": "Winterbachgasse",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2019-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Fohnsdorf",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6748166,
+          47.2102709
+        ]
+      },
+      "id": "way/193573796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199997718",
+        "addr:city": "Fürstenfeld",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "8280",
+        "addr:street": "Felberweg",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Fürstenfeld",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "https://www.roteskreuz.at/steiermark/fuerstenfeld/home",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0871158,
+          47.0465571
+        ]
+      },
+      "id": "way/199997718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209161298",
+        "addr:city": "Oberwölz",
+        "addr:country": "AT",
+        "addr:housenumber": "117",
+        "addr:place": "Vorstadt",
+        "addr:postcode": "8832",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-04-07",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Oberwölz",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Niederösterreich",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2813865,
+          47.2015129
+        ]
+      },
+      "id": "way/209161298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/212670437",
+        "addr:housenumber": "10",
+        "addr:postcode": "8054",
+        "addr:street": "Haushamer Straße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "designation": "Rotes Kreuz",
+        "emergency": "ambulance_station",
+        "int_name": "Red Cross",
+        "name": "Rotes Kreuz Ortsstelle Seiersberg",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4062666,
+          47.0122722
+        ]
+      },
+      "id": "way/212670437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216683045",
+        "addr:city": "Gröbming",
+        "addr:country": "AT",
+        "addr:housenumber": "897",
+        "addr:postcode": "8962",
+        "addr:street": "Horstigstraße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2018-10-01",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Gröbming",
+        "operator": "Österreichisches Rotes Kreuz Landesverband Steiermark",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8996981,
+          47.4484803
+        ]
+      },
+      "id": "way/216683045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/223532010",
+        "addr:city": "Übelbach",
+        "addr:country": "AT",
+        "addr:housenumber": "90",
+        "addr:postcode": "8124",
+        "addr:street": "Bahnhofstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Übelbach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2362521,
+          47.2251726
+        ]
+      },
+      "id": "way/223532010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226728208",
+        "addr:city": "Leutschach an der Weinstraße",
+        "addr:country": "AT",
+        "addr:housenumber": "15",
+        "addr:postcode": "8463",
+        "addr:street": "Marburger Straße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Leutschach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "GeoImage.at High-Res",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4690378,
+          46.6661941
+        ]
+      },
+      "id": "way/226728208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227662227",
+        "addr:city": "Preding",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "8504",
+        "addr:street": "Südweg",
+        "addr:suburb": "Preding",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-04-07",
+        "building": "yes",
+        "email": "danninger@grueneskreuz-stmk.at",
+        "emergency": "ambulance_station",
+        "name": "Grünes Kreuz Regionalstelle Preding",
+        "operator": "Grünes Kreuz",
+        "phone": "+43 3185 2144",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4091151,
+          46.853773
+        ]
+      },
+      "id": "way/227662227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228531935",
+        "addr:city": "Gleisdorf",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "8200",
+        "addr:street": "Rot-Kreuz-Weg",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Gleisdorf",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7081225,
+          47.108406
+        ]
+      },
+      "id": "way/228531935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/234067968",
+        "addr:city": "Bad Aussee",
+        "addr:country": "AT",
+        "addr:housenumber": "341",
+        "addr:postcode": "8990",
+        "addr:street": "Marktleite",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2018-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Ausseerland",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Steiermark",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/liezen/die-ortsstellen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7736147,
+          47.6108132
+        ]
+      },
+      "id": "way/234067968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235786795",
+        "addr:city": "Wildon",
+        "addr:housenumber": "1",
+        "addr:postcode": "8410",
+        "addr:street": "Alte Reichsstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "building:levels": "1.5",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Wildon",
+        "operator": "Österreichisches Rotes Kreuz",
+        "roof:shape": "hipped",
+        "source": "geoimage.at MaxRes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5184615,
+          46.8846226
+        ]
+      },
+      "id": "way/235786795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237782661",
+        "addr:city": "Gamlitz",
+        "addr:country": "AT",
+        "addr:housenumber": "94",
+        "addr:postcode": "8462",
+        "addr:street": "Eckberger Weinstraße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2016-10-02",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Gamlitz",
+        "operator": "Österreichisches Rotes Kreuz",
+        "source": "geoimage.at MaxRes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5544493,
+          46.7174043
+        ]
+      },
+      "id": "way/237782661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/240461627",
+        "addr:city": "Gnas",
+        "addr:country": "AT",
+        "addr:housenumber": "132",
+        "addr:place": "Raning",
+        "addr:postcode": "8342",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "house",
+        "construction_date": "2022-07-03",
+        "email": "gnas@st.roteskreuz.at",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Gnas",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "phone": "+43 5 0144 514422",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/feldbach/news-2022/eroeffnung-neue-dienststelle-gnas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.829295,
+          46.8703901
+        ]
+      },
+      "id": "way/240461627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/242952578",
+        "addr:city": "Bad Gleichenberg",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "8344",
+        "addr:street": "Gnaser Straße 5",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Bad Gleichenberg",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "website": "https://www.bad-gleichenberg.gv.at/Rotes_Kreuz_-_Ortsstelle_Bad_Gleichenberg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9021377,
+          46.8638305
+        ]
+      },
+      "id": "way/242952578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253442995",
+        "addr:city": "Turnau",
+        "addr:country": "AT",
+        "addr:housenumber": "220",
+        "addr:place": "Turnau",
+        "addr:postcode": "8625",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Turnau",
+        "operator": "Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/bruck-muerzzuschlag/ueber-die-bezirksstelle-muerzzuschlag",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3392343,
+          47.5567543
+        ]
+      },
+      "id": "way/253442995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261748981",
+        "addr:city": "Mautern in Steiermark",
+        "addr:housenumber": "1",
+        "addr:postcode": "8774",
+        "addr:street": "Rot Kreuz-Gasse",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Mautern",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8280177,
+          47.3989043
+        ]
+      },
+      "id": "way/261748981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/291683471",
+        "addr:city": "Schladming",
+        "addr:country": "AT",
+        "addr:housenumber": "660",
+        "addr:postcode": "8970",
+        "addr:street": "Sportplatzgasse",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2016-10-02",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Schladming",
+        "operator": "Österreichisches Rotes Kreuz Landesverband Steiermark",
+        "roof:shape": "half-hipped",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6880463,
+          47.3964016
+        ]
+      },
+      "id": "way/291683471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295480986",
+        "addr:city": "Obdach",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "8742",
+        "addr:street": "Zeiner Platz",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-04-07",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Obdach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "phone": "+43 3578 2144",
+        "website": "https://www.roteskreuz.at/stmk/dienststellen/judenburg/bezirksstelle/ortsstellen/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6934215,
+          47.0698033
+        ]
+      },
+      "id": "way/295480986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/300618187",
+        "addr:city": "Passail",
+        "addr:country": "AT",
+        "addr:housenumber": "18",
+        "addr:postcode": "8162",
+        "addr:street": "Weizer Straße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "apartments",
+        "building:levels": "2",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Passail",
+        "operator": "Österreichisches Rotes Kreuz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5173199,
+          47.2809101
+        ]
+      },
+      "id": "way/300618187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310871235",
+        "addr:city": "Liezen",
+        "addr:housenumber": "16",
+        "addr:postcode": "8940",
+        "addr:street": "Niederfeldstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "construction_date": "2014-09-08",
+        "contact:phone": "050144524100",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Ortsstelle Liezen",
+        "operator": "Österreichisches Rotes Kreuz Landesverband Steiermark",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/liezen",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2598989,
+          47.562133
+        ]
+      },
+      "id": "way/310871235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316217754",
+        "addr:city": "Murau",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "8850",
+        "addr:street": "Märzenkeller",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "construction_date": "2019-09-21;1960-01-01",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Murau",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/murau/home",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.162369,
+          47.1135405
+        ]
+      },
+      "id": "way/316217754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316311696",
+        "addr:city": "Markt Hartmannsdorf",
+        "addr:housenumber": "356",
+        "addr:postcode": "8311",
+        "addr:street": "Heizwerkstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Markt Hartmannsdorf",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8442254,
+          47.0520717
+        ]
+      },
+      "id": "way/316311696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329274953",
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "384",
+        "addr:postcode": "8054",
+        "addr:street": "Straßganger Straße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Rettungsleitstelle Steiermark Stützpunkt Graz-West",
+        "operator": "Österreichisches Rotes Kreuz Landesverband Steiermark",
+        "phone": "0800 222 144",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.396644,
+          47.0376254
+        ]
+      },
+      "id": "way/329274953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/330067458",
+        "addr:city": "Kirchbach-Zerlach",
+        "addr:country": "AT",
+        "addr:housenumber": "243",
+        "addr:place": "Kirchbach in Steiermark",
+        "addr:postcode": "8082",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Kirchbach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6649991,
+          46.9279964
+        ]
+      },
+      "id": "way/330067458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/347983344",
+        "addr:city": "Neumarkt in der Steiermark",
+        "addr:country": "AT",
+        "addr:housenumber": "22",
+        "addr:postcode": "8820",
+        "addr:street": "Freimoosstraße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Neumarkt in der Steiermark",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Steiermark",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4307612,
+          47.0690541
+        ]
+      },
+      "id": "way/347983344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355020511",
+        "addr:city": "Trieben",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "8784",
+        "addr:street": "Sonnbergstraße",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "check_date": "2025-04-13",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Trieben",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "website": "https://www.roteskreuz.at/liezen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4859645,
+          47.4888196
+        ]
+      },
+      "id": "way/355020511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370345104",
+        "addr:city": "Fehring",
+        "addr:country": "AT",
+        "addr:housenumber": "13",
+        "addr:postcode": "8350",
+        "addr:street": "Grazerstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Fehring",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0057742,
+          46.9367187
+        ]
+      },
+      "id": "way/370345104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/394379729",
+        "addr:city": "Trofaiach",
+        "addr:housenumber": "13",
+        "addr:postcode": "8793",
+        "addr:street": "Roßmarkt",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Trofaiach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0098103,
+          47.4274624
+        ]
+      },
+      "id": "way/394379729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398542115",
+        "addr:city": "Stubenberg",
+        "addr:country": "AT",
+        "addr:housenumber": "239",
+        "addr:place": "Stubenberg",
+        "addr:postcode": "8223",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Stubenberg",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8057408,
+          47.2400794
+        ]
+      },
+      "id": "way/398542115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/399156976",
+        "addr:city": "Thörl",
+        "addr:country": "AT",
+        "addr:housenumber": "164",
+        "addr:place": "Palbersdorf",
+        "addr:postcode": "8621",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Thörl",
+        "operator": "Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/bruck-muerzzuschlag/ueber-die-bezirksstelle-muerzzuschlag",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2332352,
+          47.5236875
+        ]
+      },
+      "id": "way/399156976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406476883",
+        "addr:city": "Mürzzuschlag",
+        "addr:country": "AT",
+        "addr:housenumber": "34",
+        "addr:postcode": "8680",
+        "addr:street": "Grazer Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2016-10-02",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "construction_date": "2022-08-05",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Mürzzuschlag",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/bruck-muerzzuschlag/ueber-die-bezirksstelle-muerzzuschlag",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6684935,
+          47.6032384
+        ]
+      },
+      "id": "way/406476883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408876995",
+        "addr:city": "Stainz",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "8510",
+        "addr:street": "Friedhofweg",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Stainz",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/deutschlandsberg/ueber-die-bezirksstelle-deutschlandsberg-2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2684485,
+          46.8932683
+        ]
+      },
+      "id": "way/408876995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/409867364",
+        "addr:city": "Ilz",
+        "addr:country": "AT",
+        "addr:housenumber": "258",
+        "addr:place": "Ilz",
+        "addr:postcode": "8262",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Ilz",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "website": "https://www.roteskreuz.at/steiermark/landesverband-und-bezirksstellen/fuerstenfeld",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9309876,
+          47.0865726
+        ]
+      },
+      "id": "way/409867364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/415024304",
+        "addr:city": "Sankt Stefan im Rosental",
+        "addr:country": "AT",
+        "addr:housenumber": "38",
+        "addr:postcode": "8083",
+        "addr:street": "Schulstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Sankt Stefan im Rosental",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "website": "http://www.rosental.at/index.php/service/bereitschaftsdienste/80-rotes-kreuz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7113302,
+          46.9070619
+        ]
+      },
+      "id": "way/415024304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/415087733",
+        "addr:city": "Ratten",
+        "addr:country": "AT",
+        "addr:housenumber": "51",
+        "addr:postcode": "8673",
+        "addr:street": "Kirchenviertel",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Ratten",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7213424,
+          47.4849378
+        ]
+      },
+      "id": "way/415087733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/421145159",
+        "addr:city": "Straden",
+        "addr:housenumber": "160",
+        "addr:postcode": "8345",
+        "addr:street": "Kronnersdorf",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Außenstelle Straden",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8656863,
+          46.8084594
+        ]
+      },
+      "id": "way/421145159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/448350211",
+        "addr:city": "Pischelsdorf am Kulm",
+        "addr:country": "AT",
+        "addr:housenumber": "500",
+        "addr:place": "Pischelsdorf",
+        "addr:postcode": "8212",
+        "addr:street": "Pischelsdorf",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Pischelsdorf",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8082071,
+          47.1763347
+        ]
+      },
+      "id": "way/448350211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/453518910",
+        "addr:city": "Lieboch",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "8501",
+        "addr:street": "H. Thalhammer-Straße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2018-10-01",
+        "building": "yes",
+        "email": "franz.pack@grueneskreuz-stmk.at",
+        "emergency": "ambulance_station",
+        "name": "Grünes Kreuz Regionalstelle Lieboch",
+        "operator": "Verein des Grünen Kreuzes Krankentransport- und Unfalldienst Steiermark",
+        "phone": "+43 1 48 46",
+        "source": "geoimage.at",
+        "website": "https://www.grueneskreuz-stmk.at/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3467981,
+          46.963957
+        ]
+      },
+      "id": "way/453518910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550716899",
+        "addr:city": "Heiligenkreuz am Waasen",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "8081",
+        "addr:street": "Leibnitzer Straße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Heiligenkreuz am Waasen",
+        "operator": "Österreichisches Rotes Kreuz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5869673,
+          46.9541312
+        ]
+      },
+      "id": "way/550716899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705757084",
+        "addr:city": "Breitenau am Hochlantsch",
+        "addr:country": "AT",
+        "addr:housenumber": "31",
+        "addr:postcode": "8614",
+        "addr:street": "Magnesitstraße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle  Breitenau am Hochlantsch",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Steiermark",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/bruck-muerzzuschlag/ueber-die-bezirksstelle-muerzzuschlag",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4393441,
+          47.3899748
+        ]
+      },
+      "id": "way/705757084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1016560687",
+        "addr:city": "Bad Waltersdorf",
+        "addr:country": "AT",
+        "addr:housenumber": "321",
+        "addr:place": "Bad Waltersdorf",
+        "addr:postcode": "8271",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2022-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "check_date": "2025-08-14",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Bad Waltersdorf",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Steiermark",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0123608,
+          47.1689353
+        ]
+      },
+      "id": "way/1016560687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186538350",
+        "addr:city": "Wies",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "8551",
+        "addr:street": "Altenmarkter Straße",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "email": "office@grueneskreuz-stmk.at",
+        "emergency": "ambulance_station",
+        "name": "Grünes Kreuz Regionalstelle Wies",
+        "operator": "Grünes Kreuz Steiermark",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2664129,
+          46.7161649
+        ]
+      },
+      "id": "way/1186538350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186538351",
+        "addr:city": "Fürstenfeld",
+        "addr:country": "AT",
+        "addr:housenumber": "171b",
+        "addr:postcode": "8280",
+        "addr:street": "Altenmarkt",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "email": "fromm@grueneskreuz-stmk.at",
+        "emergency": "ambulance_station",
+        "name": "Grünes Kreuz Regionalstelle Fürstenfeld",
+        "operator": "Grünes Kreuz Steiermark",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0391224,
+          47.066291
+        ]
+      },
+      "id": "way/1186538351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186538352",
+        "addr:city": "Gleinstätten",
+        "addr:country": "AT",
+        "addr:housenumber": "27",
+        "addr:postcode": "8443",
+        "addr:street": "Gleinstätten",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Grünes Kreuz Regionalstelle Gleinstätten",
+        "operator": "Grünes Kreuz Steiermark",
+        "website": "https://www.grueneskreuz-stmk.at/gruppen/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3678743,
+          46.7550873
+        ]
+      },
+      "id": "way/1186538352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186538353",
+        "addr:city": "Arnfels",
+        "addr:country": "AT",
+        "addr:housenumber": "234",
+        "addr:postcode": "8454",
+        "addr:street": "Eibiswalder Straße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Arnfels",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Steiermark",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.396434,
+          46.6779863
+        ]
+      },
+      "id": "way/1186538353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186538354",
+        "addr:city": "Eisenerz",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "8790",
+        "addr:street": "Radmeisterstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Eisenerz",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8873001,
+          47.5426075
+        ]
+      },
+      "id": "way/1186538354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186538355",
+        "addr:city": "Neudau",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "8292",
+        "addr:street": "Alte Bahnhofstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Neudau",
+        "operator": "Österreichisches Rotes Kreuz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1009553,
+          47.1708491
+        ]
+      },
+      "id": "way/1186538355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186538356",
+        "addr:city": "Sankt Marein im Mürztal",
+        "addr:country": "AT",
+        "addr:housenumber": "1a",
+        "addr:postcode": "8641",
+        "addr:street": "Hauptstraße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2016-10-02",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle St. Marein / St. Lorenzen",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Steiermark",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/bruck-muerzzuschlag/ueber-die-bezirksstelle-muerzzuschlag",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3646898,
+          47.4730627
+        ]
+      },
+      "id": "way/1186538356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186541470",
+        "addr:city": "Mariazell",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "8630",
+        "addr:street": "Spitalgasse",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Mariazellerland",
+        "operator": "Österreichisches Rotes Kreuz",
+        "phone": "+43 (0) 50 144 5-11000",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/stmk/dienststellen/bruck-muerzzuschlag/bezirksstelle/ortsstellen/mariazellerland",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.304927,
+          47.7890097
+        ]
+      },
+      "id": "way/1186541470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1229993073",
+        "addr:city": "Altenmarkt bei Sankt Gallen",
+        "addr:housenumber": "202",
+        "addr:postcode": "8934",
+        "addr:street": "Altenmarkt",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Altenmarkt-Großreifling Standort Altenmarkt",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/liezen/die-ortsstellen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6504383,
+          47.7240886
+        ]
+      },
+      "id": "way/1229993073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1243633403",
+        "addr:city": "Bad Radkersburg",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "8490",
+        "addr:street": "Dr. Schwaiger-Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Bad Radkersburg",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9942911,
+          46.6903967
+        ]
+      },
+      "id": "node/1243633403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1344348694",
+        "addr:city": "Altenmarkt bei St. Gallen",
+        "addr:country": "AT",
+        "addr:housenumber": "202",
+        "addr:postcode": "8934",
+        "addr:street": "Altenmarkt",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Großreifling",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/liezen/die-ortsstellen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7163882,
+          47.6653031
+        ]
+      },
+      "id": "node/1344348694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1849570039",
+        "addr:city": "Kumberg",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "8062",
+        "addr:street": "Meierhöfenstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "level": "0",
+        "name": "Rotes Kreuz Ortsstelle Kumberg",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5330172,
+          47.1608078
+        ]
+      },
+      "id": "node/1849570039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2677444142",
+        "addr:city": "Vorau",
+        "addr:country": "AT",
+        "addr:housenumber": "412",
+        "addr:postcode": "8230",
+        "addr:street": "Vorau",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Vorau",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8791099,
+          47.4057825
+        ]
+      },
+      "id": "node/2677444142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4161198358",
+        "addr:city": "Kirchberg an der Raab",
+        "addr:housenumber": "212",
+        "addr:place": "Kirchberg an der Raab",
+        "addr:postcode": "8324",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortstelle Kirchberg an der Raab",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7675113,
+          46.9860295
+        ]
+      },
+      "id": "node/4161198358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578690095",
+        "addr:city": "Pöllau",
+        "addr:country": "AT",
+        "addr:housenumber": "336",
+        "addr:postcode": "8225",
+        "addr:street": "Stiegengasse",
+        "ambulance_station:patient_transport": "yes",
+        "email": "poellau@grueneskreuz-stmk.at",
+        "emergency": "ambulance_station",
+        "name": "Grünes Kreuz Regionalstelle Pöllauertal",
+        "operator": "Verein Grünes Kreuz Steiermark",
+        "phone": "+433335 2219",
+        "source": "geoimage.at",
+        "website": "https://www.grueneskreuz-stmk.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8343894,
+          47.2997597
+        ]
+      },
+      "id": "node/6578690095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7199429566",
+        "addr:city": "Wildalpen",
+        "addr:country": "AT",
+        "addr:housenumber": "91",
+        "addr:postcode": "8924",
+        "addr:street": "Wildalpen",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Wildalpen",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Steiermark",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/steiermark/liezen/die-ortsstellen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9870734,
+          47.6628303
+        ]
+      },
+      "id": "node/7199429566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7787275630",
+        "addr:city": "Admont",
+        "addr:country": "AT",
+        "addr:housenumber": "600",
+        "addr:postcode": "8911",
+        "addr:street": "Aignerstraße",
+        "ambulance_station:patient_transport": "yes",
+        "emergency": "ambulance_station",
+        "name": "Freiwillige Feuerwehr Admont Abteilung Rettungsdienst",
+        "opening_hours": "24/7",
+        "operator": "Freiwillige Feuerwehr Admont",
+        "website": "https://feuerwehr-admont.at/rettungsabteilung/die-rettungsabteilung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4572649,
+          47.5731153
+        ]
+      },
+      "id": "node/7787275630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8252774317",
+        "addr:city": "Pöllau",
+        "addr:country": "AT",
+        "addr:housenumber": "569",
+        "addr:postcode": "8225",
+        "addr:street": "Froschauergasse",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "description": "Pöllauer Tal",
+        "emergency": "ambulance_station",
+        "emergency_telephone_code": "144",
+        "name": "Rotes Kreuz Pöllau",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "ref": "Pöllauer Tal",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8361342,
+          47.3019178
+        ]
+      },
+      "id": "node/8252774317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8474829171",
+        "addr:city": "Langenwang",
+        "addr:country": "AT",
+        "addr:housenumber": "13",
+        "addr:postcode": "8665",
+        "addr:street": "Grazer Straße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Arbeiter-Samariter-Bund Österreichs",
+        "brand:wikidata": "Q627072",
+        "contact:phone": "+43 3854 3293",
+        "emergency": "ambulance_station",
+        "name": "Samariterbund Mürzzuschlag",
+        "operator": "Arbeiter-Samariter-Bund Österreichs",
+        "website": "http://www.samariter-langenwang.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6200687,
+          47.5680425
+        ]
+      },
+      "id": "node/8474829171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12492214988",
+        "addr:city": "Friedberg",
+        "addr:housenumber": "1",
+        "addr:postcode": "8240",
+        "addr:street": "Getreideweg",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "construction_date": "2024-10-01;2000-01-01",
+        "email": "rkt.friedberg@st.roteskreuz.at",
+        "emergency": "ambulance_station",
+        "fixme": "Add building area once the sattelite image is updated - this is the new location of the ambulance station see https://www.kleinezeitung.at/steiermark/oststeier/6295098/Direkt-an-der-B54_Neue-RotkreuzOrtsstelle-Friedberg-sichert",
+        "name": "Rotes Kreuz Ortsstelle Friedberg",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Steiermark",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0597131,
+          47.4304872
+        ]
+      },
+      "id": "node/12492214988"
+    }
+  ]
+}

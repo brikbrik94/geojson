@@ -1,0 +1,237 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-06T07:15:34Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93089209",
+        "addr:city": "Bad Hofgastein",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "5630",
+        "addr:street": "Zittrauergasse",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Gastein",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Salzburg",
+        "operator:wikidata": "Q105577291",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/salzburg/gastein/bezirksstelle-gastein",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1135288,
+          47.1492843
+        ]
+      },
+      "id": "way/93089209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100984307",
+        "addr:city": "Radstadt",
+        "addr:housenumber": "13",
+        "addr:postcode": "5550",
+        "addr:street": "Tauernstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "building:levels": "3",
+        "construction_date": "2007-01-01",
+        "description": "Notfall-Rettungsdienst",
+        "email": "bezirksstelle.radstadt@s.roteskreuz.at",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Radstadt",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Salzburg",
+        "operator:wikidata": "Q105577291",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "phone": "+4364524244",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/salzburg/radstadt/bezirksstelle-radstadt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.473994,
+          47.3821582
+        ]
+      },
+      "id": "way/100984307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196639503",
+        "addr:city": "Zell am See",
+        "addr:country": "AT",
+        "addr:housenumber": "14",
+        "addr:postcode": "5700",
+        "addr:street": "Paracelsusstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "construction_date": "2005-01-01",
+        "email": "bezirksstelle.pinzgau@s.roteskreuz.at",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Zell am See",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Salzburg",
+        "operator:wikidata": "Q105577291",
+        "phone": "+43 6542 787",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/salzburg/pinzgau/zell-am-see",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8159249,
+          47.3395965
+        ]
+      },
+      "id": "way/196639503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184279317",
+        "addr:city": "Tamsweg",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "5580",
+        "addr:street": "Josef-Ehrenreich-Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2018-04-02",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Tamsweg",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Salzburg",
+        "operator:wikidata": "Q105577291",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/salzburg/lungau/tamsweg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.810363,
+          47.1309417
+        ]
+      },
+      "id": "way/1184279317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9150227381",
+        "addr:city": "Schwarzach im Pongau",
+        "addr:housenumber": "10",
+        "addr:postcode": "5620",
+        "addr:street": "Baderstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "construction_date": "2020-11-01;1984-01-01",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Dienststelle Schwarzach",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/salzburg/pongau/schwarzach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1564359,
+          47.3211679
+        ]
+      },
+      "id": "node/9150227381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10998083085",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "48",
+        "addr:postcode": "5020",
+        "addr:street": "Müllner Hauptstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Notarztstützpunkt Salzburg",
+        "operator": "Österreichisches Rotes Kreuz Landesverband Salzburg",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/salzburg/notfalldienst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0282134,
+          47.8056284
+        ]
+      },
+      "id": "node/10998083085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12488350490",
+        "addr:city": "Mittersill",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "5730",
+        "addr:street": "Felberstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "construction_date": "2024-12-01;1965-01-01",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Dienststelle Mittersill",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Salzburg",
+        "operator:wikidata": "Q105577291",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/salzburg/pinzgau/mittersill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4841857,
+          47.2808811
+        ]
+      },
+      "id": "node/12488350490"
+    }
+  ]
+}

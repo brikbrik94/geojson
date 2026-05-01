@@ -1,0 +1,565 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-06T07:22:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30337747",
+        "addr:city": "Oberpullendorf",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "7350",
+        "addr:street": "Roseggergasse",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Dienststelle Oberpullendorf",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5097334,
+          47.5061667
+        ]
+      },
+      "id": "way/30337747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30343956",
+        "addr:city": "Eisenstadt",
+        "addr:housenumber": "4",
+        "addr:postcode": "7000",
+        "addr:street": "Henri-Dunant-Straße",
+        "ambulance_station:emergency_doctor": "no",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "construction_date": "2014-05-13",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Eisenstadt",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "operator:wikidata": "Q105580734",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5238025,
+          47.8370187
+        ]
+      },
+      "id": "way/30343956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169850172",
+        "addr:city": "Güssing",
+        "addr:housenumber": "24",
+        "addr:postcode": "7540",
+        "addr:street": "Grazer Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "house",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Güssing",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "operator:wikidata": "Q105580734",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3211938,
+          47.0501659
+        ]
+      },
+      "id": "way/169850172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/230120487",
+        "addr:city": "Frauenkirchen",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "7132",
+        "addr:street": "Mühlteich",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2018-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "ambulance_station",
+        "emergency": "ambulance_station",
+        "name": "Österreichisches Rotes Kreuz - Rettungsstelle Frauenkirchen",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "website": "https://www.roteskreuz.at/burgenland/kontakte/bezirksstellen/bezirksstelle-neusiedl-am-see",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9218854,
+          47.8390277
+        ]
+      },
+      "id": "way/230120487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/321166428",
+        "addr:city": "Kittsee",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "2421",
+        "addr:street": "Schattendörfl",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2020-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Dienststelle Kittsee",
+        "opening_hours": "Mo-Fr 07:00-15:30",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0688373,
+          48.0917834
+        ]
+      },
+      "id": "way/321166428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/321548458",
+        "addr:city": "Neusiedl am See",
+        "addr:country": "AT",
+        "addr:housenumber": "27",
+        "addr:postcode": "7100",
+        "addr:street": "Rot-Kreuz-Gasse",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "construction_date": "2014-01-21",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Neusiedl am See",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "operator:wikidata": "Q105580734",
+        "short_name": "ÖRK",
+        "source": "basemap.at",
+        "website": "https://www.roteskreuz.at/burgenland/kontakte/bezirksstellen/bezirksstelle-neusiedl-am-see",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.836695,
+          47.9690579
+        ]
+      },
+      "id": "way/321548458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426579015",
+        "addr:city": "Hornstein",
+        "addr:country": "AT",
+        "addr:housenumber": "19",
+        "addr:postcode": "7053",
+        "addr:street": "Neufelder Straße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Arbeiter-Samariter-Bund Österreichs",
+        "brand:wikidata": "Q627072",
+        "building": "yes",
+        "construction_date": "2010-01-01",
+        "emergency": "ambulance_station",
+        "name": "Samariterbund Hornstein",
+        "operator": "Arbeiter-Samariter-Bund Österreich",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4324663,
+          47.8743712
+        ]
+      },
+      "id": "way/426579015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/458551078",
+        "addr:city": "Jennersdorf",
+        "addr:housenumber": "5",
+        "addr:postcode": "8380",
+        "addr:street": "Technologiepark",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "construction_date": "2002-01-01",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Jennersdorf",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "operator:wikidata": "Q105580734",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1484336,
+          46.9384508
+        ]
+      },
+      "id": "way/458551078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/463230454",
+        "addr:city": "Deutschkreutz",
+        "addr:housenumber": "37a",
+        "addr:postcode": "7301",
+        "addr:street": "Girmerstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Dienststelle Deutschkreutz",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6084969,
+          47.6000358
+        ]
+      },
+      "id": "way/463230454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/667768355",
+        "addr:city": "Andau",
+        "addr:housenumber": "25",
+        "addr:postcode": "7163",
+        "addr:street": "Zollhausstraße",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2020-10-01",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Samariterbund Stützpunkt Andau",
+        "not:brand:wikidata": "Q627072",
+        "operator": "Arbeiter-Samariter-Bund Österreichs",
+        "operator:wikidata": "Q627072",
+        "operator:wikipedia": "de:Arbeiter-Samariter-Bund Österreichs",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0410402,
+          47.7768483
+        ]
+      },
+      "id": "way/667768355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701147434",
+        "addr:city": "Mattersburg",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:place": "Rot Kreuz-Platz",
+        "addr:postcode": "7210",
+        "addr:street": "Rot Kreuz-Platz",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2019-04-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "email": "mattersburg@b.roteskreuz.at",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Mattersburg",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/burgenland/kontakte/bezirksstellen/bezirksstelle-mattersburg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4128252,
+          47.7348779
+        ]
+      },
+      "id": "way/701147434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/754373081",
+        "addr:city": "Zurndorf",
+        "addr:country": "AT",
+        "addr:housenumber": "5a",
+        "addr:postcode": "2424",
+        "addr:street": "Quergasse",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2018-04-02",
+        "brand": "Arbeiter-Samariter-Bund Österreichs",
+        "brand:wikidata": "Q627072",
+        "building": "yes",
+        "construction_date": "2023-08-1",
+        "emergency": "ambulance_station",
+        "name": "Samariterbund Stützpunkt Zurndorf",
+        "operator": "Arbeiter Samariterbund Österreichs",
+        "website": "https://www.samariterbund.net/aktuell/detail/samariterbund-burgenland-neuer-rettungsstuetzpunkt-in-zurndorf-rettungsorganisation-uebersiedelt-von-andau-nach-zurndorf-noch-bessere-notfallversorgung-der-menschen-in-der-region-als-ziel-15008/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.006172,
+          47.9807687
+        ]
+      },
+      "id": "way/754373081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/863627022",
+        "addr:city": "Rudersdorf",
+        "addr:country": "AT",
+        "addr:housenumber": "54",
+        "addr:postcode": "7571",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Rudersdorf",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2020-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Rudersdorf",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "roof:shape": "flat",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1237186,
+          47.0462911
+        ]
+      },
+      "id": "way/863627022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1180497691",
+        "addr:city": "Oberwart",
+        "addr:housenumber": "101",
+        "addr:postcode": "7400",
+        "addr:street": "Dornburggasse",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "construction_date": "2022-10-08",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Oberwart",
+        "not:operator:wikidata": "Q105580734",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.209286,
+          47.2784685
+        ]
+      },
+      "id": "way/1180497691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8458909745",
+        "addr:city": "Weppersdorf",
+        "addr:housenumber": "57",
+        "addr:postcode": "7331",
+        "addr:street": "Hauptstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Arbeiter-Samariter-Bund Österreichs",
+        "brand:wikidata": "Q627072",
+        "emergency": "ambulance_station",
+        "name": "Samariterbund Weppersdorf",
+        "operator": "Arbeiter-Samariter-Bund Österreichs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4262124,
+          47.5811793
+        ]
+      },
+      "id": "node/8458909745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10964194836",
+        "addr:city": "Stegersbach",
+        "addr:housenumber": "1",
+        "addr:postcode": "7551",
+        "addr:street": "Mühlgasse",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Stegersbach",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1685083,
+          47.1556975
+        ]
+      },
+      "id": "node/10964194836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10964196702",
+        "addr:city": "Rechnitz",
+        "addr:housenumber": "2",
+        "addr:postcode": "7471",
+        "addr:street": "Badergasse",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Rechnitz",
+        "opening_hours": "Mo-Fr 08:00-15:30",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4412004,
+          47.3066371
+        ]
+      },
+      "id": "node/10964196702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12500465955",
+        "addr:city": "Großpetersdorf",
+        "addr:housenumber": "2b",
+        "addr:postcode": "7503",
+        "addr:street": "Bahnstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "construction_date": "2024-10-27",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Grosspetersdorf",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "operator:wikidata": "Q105580734",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3245658,
+          47.234411
+        ]
+      },
+      "id": "node/12500465955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12500606042",
+        "addr:city": "Gattendorf",
+        "addr:housenumber": "3",
+        "addr:postcode": "2474",
+        "addr:street": "Bahnstraße",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "construction_date": "2024-10-22",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Gattendorf",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "operator:wikidata": "Q105580734",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9824346,
+          48.0140492
+        ]
+      },
+      "id": "node/12500606042"
+    }
+  ]
+}

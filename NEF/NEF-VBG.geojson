@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-06T07:18:37Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202537450",
+        "addr:city": "Bludenz",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "6700",
+        "addr:street": "Walserweg",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "construction_date": "2010-03-18",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz-Abteilung Bludenz",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Vorarlberg",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-abteilung-bludenz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8196518,
+          47.1600049
+        ]
+      },
+      "id": "way/202537450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/640908684",
+        "addr:city": "Hohenems",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "6845",
+        "addr:street": "Kaiserin-Elisabeth-Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "building": "yes",
+        "construction_date": "2019-01-01",
+        "contact:website": "https://www.roteskreuz.at/vbg/dienststellen/hohenems/",
+        "emergency": "ambulance_station",
+        "name": "Rotkreuz Abteilung Hohenems",
+        "office": "association",
+        "operator": "Österreichisches Rotes Kreuz Landesverband Vorarlberg",
+        "phone": "+43 5576 90900",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-abteilung-hohenems",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6817748,
+          47.3623712
+        ]
+      },
+      "id": "way/640908684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2949264917",
+        "addr:city": "Riezlern",
+        "addr:housenumber": "24",
+        "addr:postcode": "6991",
+        "addr:street": "Walserstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "emergency": "ambulance_station",
+        "name": "Walser Rettung",
+        "operator": "Bayerisches Rotes Kreuz",
+        "source": "survey",
+        "website": "https://www.walser-rettung.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1905617,
+          47.3604077
+        ]
+      },
+      "id": "node/2949264917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8296845705",
+        "addr:city": "Bregenz",
+        "addr:housenumber": "2",
+        "addr:postcode": "6900",
+        "addr:street": "Carl-Pedenz-Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Notarztstützpunkt LKH Bregenz",
+        "operator": "Rotes Kreuz Vorarlberg",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7462561,
+          47.4970497
+        ]
+      },
+      "id": "node/8296845705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8296856498",
+        "addr:city": "Dornbirn",
+        "addr:housenumber": "2",
+        "addr:postcode": "6850",
+        "addr:street": "Lustenauerstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Notarztstützpunkt Dornbirn",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7395085,
+          47.4061764
+        ]
+      },
+      "id": "node/8296856498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8296861880",
+        "addr:city": "Feldkirch",
+        "addr:housenumber": "47",
+        "addr:postcode": "6800",
+        "addr:street": "Carinagasse",
+        "ambulance_station:emergency_doctor": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Notarztdienst Feldkirch",
+        "operator": "Rotes Kreuz Vorarlberg",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5793876,
+          47.2315092
+        ]
+      },
+      "id": "node/8296861880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12393463176",
+        "addr:city": "Bezau",
+        "addr:housenumber": "368",
+        "addr:postcode": "6870",
+        "addr:street": "Platz",
+        "ambulance_station:emergency_doctor": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Notarztstützpunkt Bregenzerwald",
+        "operator": "Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz.at/vorarlberg/rotkreuz-abteilungen-und-ortsstellen/rotkreuz-abteilung-bregenzerwald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9008378,
+          47.3842524
+        ]
+      },
+      "id": "node/12393463176"
+    }
+  ]
+}

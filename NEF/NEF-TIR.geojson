@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-06T07:18:37Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41741688",
+        "addr:city": "Telfs",
+        "addr:country": "AT",
+        "addr:housenumber": "9",
+        "addr:postcode": "6410",
+        "addr:street": "Marktplatz",
+        "alt_name": "ÖRK-Wache Telfs",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "office",
+        "building:levels": "3",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Telfs",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "roof:levels": "0",
+        "short_name": "ÖRK",
+        "website": "https://www.roteskreuz-telfs.at/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0690017,
+          47.3032078
+        ]
+      },
+      "id": "way/41741688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102403398",
+        "addr:city": "Kramsach",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:place": "Länd",
+        "addr:postcode": "6233",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "email": "office@roteskreuz-kufstein.at",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Kramsach",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8801066,
+          47.4442486
+        ]
+      },
+      "id": "way/102403398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110524303",
+        "addr:city": "Schwaz",
+        "addr:country": "AT",
+        "addr:housenumber": "25",
+        "addr:postcode": "6130",
+        "addr:street": "Münchner Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "fax": "05242/62598-25",
+        "name": "Rotes Kreuz Bezirksstelle Schwaz",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "phone": "05242/62598-0",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "website": "http://www.roteskreuz-schwaz.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7081793,
+          47.3541055
+        ]
+      },
+      "id": "way/110524303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/111857830",
+        "addr:city": "Hall in Tirol",
+        "addr:country": "AT",
+        "addr:housenumber": "20",
+        "addr:postcode": "6060",
+        "addr:street": "Bruckergasse",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Bezirksstelle Hall",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "short_name": "ÖRK",
+        "wikidata": "Q38065354",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5090929,
+          47.2854693
+        ]
+      },
+      "id": "way/111857830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116819174",
+        "addr:city": "Kufstein",
+        "addr:country": "AT",
+        "addr:housenumber": "29",
+        "addr:postcode": "6330",
+        "addr:street": "Endach",
+        "ambulance_station:emergency_doctor": "yes",
+        "brand": "Arbeiter-Samariter-Bund Österreichs",
+        "brand:wikidata": "Q627072",
+        "building": "yes",
+        "description": "Dies ist ein geteilter Notarztstützpunkt und wird abwechselnd Wochenweise durch ASB und RK am selben Standort betrieben",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Samariterbund Notarztstützpunkt Kufstein",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "short_name": "ÖRK",
+        "source": "geoimage.at",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1493494,
+          47.5716825
+        ]
+      },
+      "id": "way/116819174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128807683",
+        "addr:city": "Schönberg im Stubaital",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "6141",
+        "addr:street": "Brennerautobahn",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "email": "office@roteskreuz-innsbruckland.at",
+        "emergency": "ambulance_station",
+        "fax": "+43 57 144 2019",
+        "name": "Rotes Kreuz Bezirksstelle Innsbruck-Land",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "phone": "+43 57 144 2022",
+        "short_name": "ÖRK",
+        "start_date": "2015",
+        "website": "http://www.roteskreuz-innsbruckland.at/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4004955,
+          47.1860266
+        ]
+      },
+      "id": "way/128807683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/149429771",
+        "addr:city": "Lienz",
+        "addr:country": "AT",
+        "addr:housenumber": "3a",
+        "addr:postcode": "9900",
+        "addr:street": "Emanuel von Hibler-Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "loc_name": "Bezirksstelle Lienz",
+        "name": "Rotes Kreuz Bezirksstelle Osttriol",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "website": "http://www.roteskreuz-lienz.at/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7660338,
+          46.8344253
+        ]
+      },
+      "id": "way/149429771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/230819400",
+        "addr:city": "Imst",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "6460",
+        "addr:street": "Meraner Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "loc_name": "Bezirksstelle Imst",
+        "name": "Rotes Kreuz Bezirksstelle Imst",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "operator:wikidata": "Q168276",
+        "operator:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7420281,
+          47.2346464
+        ]
+      },
+      "id": "way/230819400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184176414",
+        "addr:city": "Mayrhofen",
+        "addr:country": "AT",
+        "addr:housenumber": "600",
+        "addr:postcode": "6290",
+        "addr:street": "Dornaustraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Mayrhofen",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8589862,
+          47.1674173
+        ]
+      },
+      "id": "way/1184176414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1223341855",
+        "addr:city": "St. Johann in Tirol",
+        "addr:housenumber": "14",
+        "addr:postcode": "6380",
+        "addr:street": "Brauweg",
+        "ambulance_station:emergency_doctor": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "building": "yes",
+        "description": "This is a shared ambulance station between Redcross and Samariterbund AND only serves as station for emergency doctor vehicle",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Samariterbund Notarztstützpunkt St Johann in Tirol",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "short_name": "ÖRK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.428313,
+          47.5202814
+        ]
+      },
+      "id": "way/1223341855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4929337523",
+        "addr:city": "Innsbruck",
+        "addr:country": "AT",
+        "addr:postcode": "6020",
+        "addr:street": "Innerkoflerstraße",
+        "addr:suburb": "Wilten",
+        "ambulance_station:emergency_doctor": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Notarztstützpunkt Innsbruck",
+        "name:de": "ÖRK Notarztstützpunkt Innsbruck",
+        "name:en": "ÖRK Emergency Doctor Innsbruck",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "opening_hours": "24/7",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3846129,
+          47.2614462
+        ]
+      },
+      "id": "node/4929337523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5814312723",
+        "addr:city": "Matrei in Osttirol",
+        "addr:country": "AT",
+        "addr:housenumber": "18a",
+        "addr:postcode": "9971",
+        "addr:street": "Virgener Straße",
+        "ambulance_station:emergency_doctor": "yes",
+        "ambulance_station:patient_transport": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:short": "ÖRK",
+        "brand:wikidata": "Q168276",
+        "brand:wikipedia": "de:Österreichisches Rotes Kreuz",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Ortsstelle Matrei/Osttirol",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5349317,
+          46.999024
+        ]
+      },
+      "id": "node/5814312723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6171536259",
+        "addr:city": "Zams",
+        "addr:housenumber": "43",
+        "addr:postcode": "6511",
+        "addr:street": "Sanatoriumstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "description": "This is a emergency doctor station, that responds to emergencys bringing the doctor on scene",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Notarztstützpunkt Zams",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.593129,
+          47.1612149
+        ]
+      },
+      "id": "node/6171536259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10824758590",
+        "addr:city": "Ehenbichl",
+        "addr:housenumber": "33",
+        "addr:postcode": "6600",
+        "addr:street": "Krankenhausstraße",
+        "ambulance_station:emergency_doctor": "yes",
+        "brand": "Österreichisches Rotes Kreuz",
+        "brand:wikidata": "Q168276",
+        "emergency": "ambulance_station",
+        "name": "Rotes Kreuz Notarztstützpunkt Reutte",
+        "official_operator": "Rotes Kreuz Tirol gemeinnützige Rettungsdienst GmbH",
+        "operator": "Rettungsdienst Tirol gGmbH",
+        "short_name": "ÖRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7108089,
+          47.4735014
+        ]
+      },
+      "id": "node/10824758590"
+    }
+  ]
+}

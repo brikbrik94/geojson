@@ -70,6 +70,16 @@
       "template": "zonen",
       "path": "Zonen-SEW",
       "name": "Zonen-SEW"
+    },
+    {
+      "template": "rd",
+      "name": "Rettungsdienst-Dienststellen-Österreich",
+      "path": "RD"
+    },
+    {
+      "template": "rd",
+      "name": "Notarzt-Dienststellen-Österreich",
+      "path": "NEF"
     }
   ]
 }
