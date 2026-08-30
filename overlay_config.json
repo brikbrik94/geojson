@@ -52,11 +52,6 @@
       "path": "NAH-Stützpunkte"
     },
     {
-      "template": "rd",
-      "name": "Rettungsdienst-Dienststellen",
-      "path": "RD-Dienststellen"
-    },
-    {
       "template": "linz-ag-linien",
       "name": "Linz-AG-Linien",
       "path": "Linz-AG-Linien"
