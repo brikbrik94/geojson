@@ -4,6 +4,14 @@
       "template": "rd",
       "name": "Rettungsdienst-Dienststellen"
     },
+    "RD": {
+      "template": "rd",
+      "name": "Rettungsdienst-Dienststellen"
+    },
+    "NEF": {
+      "template": "rd",
+      "name": "NEF-Stützpunkte"
+    },
     "BRD-OÖ-Diensstellen": {
       "template": "rd",
       "name": "Bergrettungsdienst OÖ"
@@ -49,6 +57,14 @@
     "Linz-AG-Linien": {
       "template": "linz-ag-linien",
       "name": "Linz-AG-Linien"
+    },
+    "Linz-AG-Linien-2": {
+      "template": "linz-ag-linien",
+      "name": "Linz-AG-Linien"
+    },
+    "Linz-AG-Linien-2/split_linien": {
+      "template": "linz-ag-linien",
+      "name": "Linz-AG-Linien (einzeln)"
     }
   },
   "prefix_matches": {

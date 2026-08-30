@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T15:49:38.531365Z",
+  "generated_at": "2026-08-30T08:50:32.095047Z",
   "files": [
     {
       "name": "Anfahrtszeit/Linz/15-0.geojson",
@@ -46,37 +46,289 @@
     {
       "name": "Autobahnen/A1.geojson",
       "feature_types": [
+        "LineString",
         "MultiLineString"
       ],
-      "feature_count": 1
+      "feature_count": 1572
+    },
+    {
+      "name": "Autobahnen/A10.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 1344
+    },
+    {
+      "name": "Autobahnen/A11.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 139
+    },
+    {
+      "name": "Autobahnen/A12.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 937
+    },
+    {
+      "name": "Autobahnen/A13.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 328
+    },
+    {
+      "name": "Autobahnen/A14.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 533
+    },
+    {
+      "name": "Autobahnen/A2.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 2687
+    },
+    {
+      "name": "Autobahnen/A21.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 228
+    },
+    {
+      "name": "Autobahnen/A22.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 205
+    },
+    {
+      "name": "Autobahnen/A23.geojson",
+      "feature_types": [
+        "LineString"
+      ],
+      "feature_count": 115
     },
     {
       "name": "Autobahnen/A25.geojson",
       "feature_types": [
+        "LineString",
         "MultiLineString"
       ],
-      "feature_count": 1
+      "feature_count": 117
+    },
+    {
+      "name": "Autobahnen/A26.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 15
+    },
+    {
+      "name": "Autobahnen/A3.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString",
+        "Point"
+      ],
+      "feature_count": 203
+    },
+    {
+      "name": "Autobahnen/A4.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 451
+    },
+    {
+      "name": "Autobahnen/A5.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 268
+    },
+    {
+      "name": "Autobahnen/A6.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 115
     },
     {
       "name": "Autobahnen/A7.geojson",
       "feature_types": [
+        "LineString",
         "MultiLineString"
       ],
-      "feature_count": 1
+      "feature_count": 217
     },
     {
       "name": "Autobahnen/A8.geojson",
       "feature_types": [
+        "LineString",
         "MultiLineString"
       ],
-      "feature_count": 1
+      "feature_count": 437
     },
     {
       "name": "Autobahnen/A9.geojson",
       "feature_types": [
+        "LineString",
         "MultiLineString"
       ],
-      "feature_count": 1
+      "feature_count": 1242
+    },
+    {
+      "name": "Autobahnen/Auffahrten.geojson",
+      "feature_types": [
+        "LineString"
+      ],
+      "feature_count": 7393
+    },
+    {
+      "name": "Autobahnen/S1.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 290
+    },
+    {
+      "name": "Autobahnen/S10.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 131
+    },
+    {
+      "name": "Autobahnen/S16.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 265
+    },
+    {
+      "name": "Autobahnen/S18.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 6
+    },
+    {
+      "name": "Autobahnen/S2.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 73
+    },
+    {
+      "name": "Autobahnen/S3.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 282
+    },
+    {
+      "name": "Autobahnen/S31.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 320
+    },
+    {
+      "name": "Autobahnen/S33.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 186
+    },
+    {
+      "name": "Autobahnen/S35.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 223
+    },
+    {
+      "name": "Autobahnen/S36.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 307
+    },
+    {
+      "name": "Autobahnen/S37.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 92
+    },
+    {
+      "name": "Autobahnen/S4.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 185
+    },
+    {
+      "name": "Autobahnen/S5.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 157
+    },
+    {
+      "name": "Autobahnen/S6.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 737
+    },
+    {
+      "name": "Autobahnen/S7.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 134
+    },
+    {
+      "name": "Autobahnen/S8.geojson",
+      "feature_types": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "feature_count": 9
     },
     {
       "name": "BRD-OÖ-Diensstellen/BRD-OOE.geojson",
@@ -541,95 +793,286 @@
       "feature_count": 3
     },
     {
-      "name": "NAH-Stützpunkte/NAH-Bayern.geojson",
+      "name": "Linz-AG-Linien-2/Linz-AG-Linien.geojson",
       "feature_types": [
+        "LineString",
+        "MultiLineString",
         "Point"
       ],
-      "feature_count": 14
+      "feature_count": 1034
     },
     {
-      "name": "NAH-Stützpunkte/NAH-Zonen-Sommer.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-1.geojson",
       "feature_types": [
-        "MultiPolygon"
+        "MultiLineString"
       ],
-      "feature_count": 32
+      "feature_count": 2
     },
     {
-      "name": "NAH-Stützpunkte/NAH-Zonen-Winter.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-101.geojson",
       "feature_types": [
-        "MultiPolygon"
+        "MultiLineString"
       ],
-      "feature_count": 43
+      "feature_count": 2
     },
     {
-      "name": "NAH-Stützpunkte/NAH-Zonen-Zwischensaison.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-102.geojson",
       "feature_types": [
-        "MultiPolygon"
+        "MultiLineString"
       ],
-      "feature_count": 29
+      "feature_count": 2
     },
     {
-      "name": "NAH-Stützpunkte/NAH-Österreich-Sommer.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-103.geojson",
       "feature_types": [
-        "Point"
+        "MultiLineString"
       ],
-      "feature_count": 29
+      "feature_count": 1
     },
     {
-      "name": "NAH-Stützpunkte/NAH-Österreich-Winter.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-104.geojson",
       "feature_types": [
-        "Point"
+        "MultiLineString"
       ],
-      "feature_count": 40
+      "feature_count": 2
     },
     {
-      "name": "NAH-Stützpunkte/NAH-Österreich-Zwischensaison.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-105.geojson",
       "feature_types": [
-        "Point"
+        "MultiLineString"
       ],
-      "feature_count": 26
+      "feature_count": 2
     },
     {
-      "name": "RD-Dienststellen/RD-BY.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-106.geojson",
       "feature_types": [
-        "Point"
+        "MultiLineString"
       ],
-      "feature_count": 47
+      "feature_count": 2
     },
     {
-      "name": "RD-Dienststellen/RD-NÖ.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-107.geojson",
       "feature_types": [
-        "Point"
+        "MultiLineString"
       ],
-      "feature_count": 32
+      "feature_count": 2
     },
     {
-      "name": "RD-Dienststellen/RD-OO-NEF.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-108.geojson",
       "feature_types": [
-        "Point"
+        "LineString"
       ],
-      "feature_count": 18
+      "feature_count": 2
     },
     {
-      "name": "RD-Dienststellen/RD-OO-SEW.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-11.geojson",
       "feature_types": [
-        "Point"
+        "MultiLineString"
       ],
-      "feature_count": 94
+      "feature_count": 2
     },
     {
-      "name": "RD-Dienststellen/RD-SBG.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-12.geojson",
       "feature_types": [
-        "Point"
+        "MultiLineString"
       ],
-      "feature_count": 18
+      "feature_count": 2
     },
     {
-      "name": "RD-Dienststellen/RD-STMK.geojson",
+      "name": "Linz-AG-Linien-2/split_linien/Linie-150.geojson",
       "feature_types": [
-        "Point"
+        "LineString"
       ],
-      "feature_count": 12
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-17.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-18.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-19.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-191.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-192.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-194.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-2.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-25.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-26.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-27.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-3.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-33.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-33a.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-38.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-4.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-41.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-43.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-45.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-46.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-50.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-70.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-71.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-72.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-73.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-77.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-N82.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
+    },
+    {
+      "name": "Linz-AG-Linien-2/split_linien/Linie-N83.geojson",
+      "feature_types": [
+        "MultiLineString"
+      ],
+      "feature_count": 2
     },
     {
       "name": "Linz-AG-Linien/Linie-1.geojson",
@@ -917,6 +1360,181 @@
         "MultiLineString"
       ],
       "feature_count": 1
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Bayern.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 14
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Zonen-Sommer.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 32
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Zonen-Winter.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 43
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Zonen-Zwischensaison.geojson",
+      "feature_types": [
+        "MultiPolygon"
+      ],
+      "feature_count": 29
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Österreich-Sommer.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 29
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Österreich-Winter.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 40
+    },
+    {
+      "name": "NAH-Stützpunkte/NAH-Österreich-Zwischensaison.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 26
+    },
+    {
+      "name": "NEF/NEF-BGL.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 5
+    },
+    {
+      "name": "NEF/NEF-KTN.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 9
+    },
+    {
+      "name": "NEF/NEF-NÖ.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 34
+    },
+    {
+      "name": "NEF/NEF-OÖ.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 18
+    },
+    {
+      "name": "NEF/NEF-SBG.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 7
+    },
+    {
+      "name": "NEF/NEF-STMK.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 21
+    },
+    {
+      "name": "NEF/NEF-TIR.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 14
+    },
+    {
+      "name": "NEF/NEF-VBG.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 7
+    },
+    {
+      "name": "NEF/NEF-WIE.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 7
+    },
+    {
+      "name": "RD/RD-BGL.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 19
+    },
+    {
+      "name": "RD/RD-KTN.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 25
+    },
+    {
+      "name": "RD/RD-NÖ.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 153
+    },
+    {
+      "name": "RD/RD-OÖ.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 94
+    },
+    {
+      "name": "RD/RD-SBG.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 28
+    },
+    {
+      "name": "RD/RD-STMK.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 93
+    },
+    {
+      "name": "RD/RD-TIR.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 52
+    },
+    {
+      "name": "RD/RD-VBG.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 13
+    },
+    {
+      "name": "RD/RD-VIE.geojson",
+      "feature_types": [
+        "Point"
+      ],
+      "feature_count": 29
     },
     {
       "name": "Zonen-NEF/NEF-AM.geojson",

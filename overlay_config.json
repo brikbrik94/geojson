@@ -47,14 +47,34 @@
       "path": "Leitstellen-Bereiche"
     },
     {
+      "template": "linz-ag-linien",
+      "name": "Linz-AG-Linien",
+      "path": "Linz-AG-Linien"
+    },
+    {
+      "template": "linz-ag-linien",
+      "name": "Linz-AG-Linien",
+      "path": "Linz-AG-Linien-2"
+    },
+    {
+      "template": "linz-ag-linien",
+      "name": "Linz-AG-Linien (einzeln)",
+      "path": "Linz-AG-Linien-2/split_linien"
+    },
+    {
       "template": "nah",
       "name": "Notarzthubschrauber",
       "path": "NAH-Stützpunkte"
     },
     {
-      "template": "linz-ag-linien",
-      "name": "Linz-AG-Linien",
-      "path": "Linz-AG-Linien"
+      "template": "rd",
+      "name": "NEF-Stützpunkte",
+      "path": "NEF"
+    },
+    {
+      "template": "rd",
+      "name": "Rettungsdienst-Dienststellen",
+      "path": "RD"
     },
     {
       "template": "zonen",
@@ -65,16 +85,6 @@
       "template": "zonen",
       "path": "Zonen-SEW",
       "name": "Zonen-SEW"
-    },
-    {
-      "template": "rd",
-      "name": "Rettungsdienst-Dienststellen-Österreich",
-      "path": "RD"
-    },
-    {
-      "template": "rd",
-      "name": "Notarzt-Dienststellen-Österreich",
-      "path": "NEF"
     }
   ]
 }
